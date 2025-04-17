@@ -111,6 +111,18 @@ export default function Quiz({ questions, title, partId }: QuizProps) {
     router.push("/menu")
   }
 
+  // Add keyboard event listener for spacebar
+  useEffect(() => {
+    const handleKeyPress = (event: KeyboardEvent) => {
+      if (event.code === 'Space' && selectedOption && !showResult) {
+        handleNext()
+      }
+    }
+
+    window.addEventListener('keydown', handleKeyPress)
+    return () => window.removeEventListener('keydown', handleKeyPress)
+  }, [selectedOption, showResult])
+
   return (
     <div className="flex flex-col items-center justify-center min-h-screen bg-gray-50 p-4">
       <Card className="w-full max-w-3xl relative">
@@ -122,7 +134,7 @@ export default function Quiz({ questions, title, partId }: QuizProps) {
 
         {/* Exit button in the upper right */}
         <div className="absolute top-4 right-4">
-          <Button variant="ghost" size="sm" onClick={handleExit} className="text-gray-500 hover:text-gray-700">
+          <Button onClick={handleExit} className="text-gray-500 hover:text-gray-700">
             <HomeIcon className="h-4 w-4 mr-1" /> Exit
           </Button>
         </div>
@@ -244,10 +256,10 @@ export default function Quiz({ questions, title, partId }: QuizProps) {
               ) : (
                 <div></div>
               )}
-              <Button onClick={handleRestart} variant="outline" className="flex items-center">
+              <Button onClick={handleRestart} className="flex items-center">
                 <RefreshCwIcon className="mr-2 h-4 w-4" /> Restart Test
               </Button>
-              <Button onClick={handleExit} variant="secondary" className="flex items-center">
+              <Button onClick={handleExit} className="flex items-center">
                 <HomeIcon className="mr-2 h-4 w-4" /> Exit to Menu
               </Button>
             </div>
