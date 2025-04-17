@@ -1160,7 +1160,7 @@ export const quizParts: QuizPart[] = [
       {
           question: "The survey comprising all classes of surveys of isolated parcels of land used for agricultural, residential, commercial resettlement or other purposes is __________________.",
           options: ["A. Geodetic Control Survey", "B. Private Land Survey", "C. Isolated Survey", "D. Cadastral Survey"],
-          correct: "A. Geodetic Control Survey"
+          correct: "C. Isolated Survey"
       },
       {
           question: "The application of economic techniques to real estate markets which tries to describe, explain, and predict patterns of prices, supply, and demand is called:",
