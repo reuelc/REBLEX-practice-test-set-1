@@ -893,5 +893,7 @@ export const quizParts: QuizPart[] = [
         question: "Defined as the inscription, recording or annotation of an act and contracts resulting to the ownership of and other rights over land:",
         options: ["A. Land Registration", "B. Land Dispute", "C. Land Title", "D. Land Ownership"],
         correct: "A. Land Registration",
-
-\
+      },
+    ],
+  },
+];
