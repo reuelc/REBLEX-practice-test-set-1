@@ -23,7 +23,7 @@ export const quizParts: QuizPart[] = [
       {
           question: "The maximum withholding tax on the commission of a real estate broker that may be deducted is:",
           options: ["A. 6%", "B. 15%", "C. 10%", "D. 32%"],
-          correct: "B. 15%"
+          correct: "C. 10%"
       },
       {
           question: "The assessment of level of the improvements of a property owned by Mrs. Lerna will be based on the classification and",
@@ -68,7 +68,7 @@ export const quizParts: QuizPart[] = [
       {
           question: "It is a list of all realty property located within the territorial of the local government unit concerned, prepared and maintained by the Provincial/City/Municipal Assessor.",
           options: ["A. Registry of Deeds", "B. Registry of the Property", "C. Provincial Registry", "D. Municipal Registry"],
-          correct: "A. Registry of Deeds"
+          correct: "B. Registry of the Property"
       },
       {
           question: "In mixed used condominium project, the master deed may be amended by a simple majority vote of unit owners. Majority is based on:",
