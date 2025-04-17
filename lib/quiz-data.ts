@@ -6,439 +6,504 @@ export const quizParts: QuizPart[] = [
     title: "Part 1 - General Knowledge",
     questions: [
       {
-        question:
-          "Refers to the land and all those items which are attached to the land. It is the physical tangible entity, together with all the additions or improvements on, above or below the ground.",
-        options: ["A. Real Estate", "B. Real Property", "C. Realty", "D. Estate"],
-        correct: "A. Real Estate",
+        question: "A contract between the Buyer and the Broker which stipulates that if the Broker succeeds in procuring the property and negotiates the purchases, a fee will be paid by the Buyer.",
+        options: ["A. Purchase Agency", "B. Lease with Option to Buy", "C. Real estate Mortgage", "D. Contract of Lease"],
+        correct: "A. Purchase Agency"
       },
       {
-        question: "A contract of agency cannot be extinguished by:",
-        options: [
-          "A. Transfer of residence of principal or agent",
-          "B. Expiration of the authority",
-          "C. Revocation by the principal of the agency",
-          "D. Death, insanity, civil interdiction or insolvency of principal or agent",
-        ],
-        correct: "A. Transfer of residence of principal or agent",
+          question: "When is the date of signing of the Real Estate Service Act",
+          options: ["A. 29 June 2009", "B. 29 July 2009", "C. 29 July 2010", "D. 29 July 2011"],
+          correct: "A. 29 June 2009"
       },
       {
-        question:
-          "Land which does not have access to a public road which is given a right of way through an adjoining land.",
-        options: ["A. Escheat", "B. Dominant Estate", "C. Servient Estate", "D. Paraphernal Property"],
-        correct: "B. Dominant Estate",
+          question: "The DST for the Donor's tax shall be paid:",
+          options: ["A. After 20th day of the following month from notarization of deed", "B. After 10th day of the following month from notarization of deed", "C. After 5th day of the following month from notarization of deed", "D. None of the above"],
+          correct: "C. After 5th day of the following month from notarization of deed"
       },
       {
-        question:
-          "The Real Estate Service Act, in particular, Section 20, Article III made mention of what particular law?",
-        options: [
-          "A. DTI Ministry Order No. 89, series of 1986",
-          "B. DTI Ministry Order No. 39, as amended",
-          "C. DTI Ministry Order No. 39, series of 1985",
-          "D. DTI Ministry order No. 89, as amended",
-        ],
-        correct: "B. DTI Ministry Order No. 39, as amended",
+          question: "The maximum withholding tax on the commission of a real estate broker that may be deducted is:",
+          options: ["A. 6%", "B. 15%", "C. 10%", "D. 32%"],
+          correct: "B. 15%"
       },
       {
-        question:
-          "What refers to the result of a reasonable degree of architectural homogeneity and compatible land uses brought about by marketing attitudes, societal brands, economic conditions and public policy?",
-        options: [
-          "A. Surplus productivity",
-          "B. Highest and best use",
-          "C. Principle of conformity",
-          "D. Increasing and diminishing return",
-        ],
-        correct: "C. Principle of conformity",
+          question: "The assessment of level of the improvements of a property owned by Mrs. Lerna will be based on the classification and",
+          options: ["A. Fair market value of the improvement of the assessor", "B. Assesses value of the improvement of the assessor", "C. Zonal value of the improvements", "D. Declared value by the owner x tax rate"],
+          correct: "A. Fair market value of the improvement of the assessor"
       },
       {
-        question: "It is the rezoning of the land from a higher-density use to a lower-density use.",
-        options: ["A. Downsizing", "B. Spotzoning", "C. Conditional Zoning", "D. Zoning Ordinance"],
-        correct: "A. Downsizing",
+          question: "The Local Board of Assessment Appeals in the city shall be headed by a Chairman who shall be",
+          options: ["A. Provincial Assessor", "B. Registrar of Deeds of the City", "C. City Assessor", "D. City Mayor"],
+          correct: "B. Registrar of Deeds of the City"
       },
       {
-        question:
-          "Mr. Lacsamana inherited a piece of land when he was still single. Then he got married on October 28, 2011 without a marriage settlement. What is the nature of the property now that he is married?",
-        options: ["A. Exclusive Property", "B. Separate Property", "C. Uncommon Property", "D. Community Property"],
-        correct: "D. Community Property",
+          question: "Represent agricultural produce in the logo of PRBRES?",
+          options: ["A. Land and trees", "B. Land and fruits", "C. Trees only", "D. Trees and the fruits"],
+          correct: "D. Trees and the fruits"
       },
       {
-        question: "It is the holding of the thing and enjoyment of a right.",
-        options: ["A. Ownership", "B. Title", "C. Possession", "D. Claim"],
-        correct: "C. Possession",
+          question: "A special levy may be imposed for the lands specially benefited by the public works projects or improvements funded by the local government unit provided, the special levy shall not exceed",
+          options: ["A. 5% of the assessed value", "B. 60% of the actual cost of such projects", "C. 50% of the actual cost of projects and improvements", "D. 2% of the assessed value"],
+          correct: "B. 60% of the actual cost of such projects"
       },
       {
-        question: "Patrimonial property of the state is that which it owns in what capacity?",
-        options: ["A. Sovereign", "B. Ancestral", "C. Private", "D. Public"],
-        correct: "C. Private",
+          question: "After the RESA (2019), the code of ethics for Real Estate Practitioners is referred to as:",
+          options: ["A. Code of Ethics for Real Estate Service Practitioners", "B. Code of Responsibilities for Real Estate Service Practitioners", "C. Code of Ethics and Responsibilities for Real Estate service Practitioners", "D. National Code of Ethics and Responsibilities for Real Estate Service Practitioners"],
+          correct: "C. Code of Ethics and Responsibilities for Real Estate service Practitioners"
       },
       {
-        question: "If an unmarried person dies, his estate shall be inherited by:",
-        options: ["A. Parents only", "B. Brother and sister only", "C. Parents, brother and sister only", "D. Parents, brother and sister and nephews and nieces"],
-        correct: "A. Parents only",
+          question: "The share of an illegitimate child in their father's estate is equivalent to the share of the legitime of the legitimate child in the share of:",
+          options: ["a) Equal share", "b) One-third share", "c) One-half share", "d) No share"],
+          correct: "c) One-half share"
       },
       {
-        question: "Which of the following is an activity which mandates all LGUs to prepare under the Local Government Code, RA 7160, Sec 20c?",
-        options: ["A. Comprehensive Land Use Program", "B. Ordinance updating the schedule of fair market values", "C. Joint venture agreement with developers of socialized housing", "D. Master plan for relocation of squatters"],
-        correct: "A. Comprehensive Land Use Program",
+          question: "Patrimonial properties of the State are –",
+          options: ["A. Properties considered as public dominion", "B. Properties owned by the State or any of its instrumentalities in a private capacity", "C. Properties expropriated by the State from the private sector to be used for roads", "D. Properties belonging to individuals working in the government"],
+          correct: "B. Properties owned by the State or any of its instrumentalities in a private capacity"
       },
       {
-        question: "For a subdivision housing project that is 30 hectares and above, _________ is required to be submitted to DHSUD before the Certificate of Registration can be issued.",
-        options: ["A. Traffic Impact Assessment (TIA)", "B. Cash flow", "C. Building permit", "D. National Water Resources Board"],
-        correct: "A. Traffic Impact Assessment (TIA)",
+          question: "The following does not have a BIR zonal value:",
+          options: ["A. Condominium unit", "B. Agricultural land", "C. Condominium parking space", "D. Building improvements"],
+          correct: "D. Building improvements"
       },
       {
-        question: "The right of pre-emption or right of first refusal under PD 1517 (Urban Land Reform) is exercisable by a legitimate tenant in urban land if he has occupied the land for______________.",
-        options: ["A. 5 years of continuous possession", "B. 15 years", "C. Not less than 1 year", "D. At least 10 years"],
-        correct: "D. At least 10 years",
+          question: "It is a list of all realty property located within the territorial of the local government unit concerned, prepared and maintained by the Provincial/City/Municipal Assessor.",
+          options: ["A. Registry of Deeds", "B. Registry of the Property", "C. Provincial Registry", "D. Municipal Registry"],
+          correct: "A. Registry of Deeds"
       },
       {
-        question: "A buyer on installment who has paid at least two years of installments is entitled to a refund of 50% of total payments effected during the first five years and an additional ______ every year but not exceed 90% of total payments made.",
-        options: ["A. Fifty (50%) Percent", "B. Ten (10%) Percent", "C. Five (5%) Percent", "D. Twenty (20%) Percent"],
-        correct: "C. Five (5%) Percent",
+          question: "In mixed used condominium project, the master deed may be amended by a simple majority vote of unit owners. Majority is based on:",
+          options: ["A. number of condominium units", "B. total area of ownership", "C. floor area of ownership", "D. only one unit to be considered in voting"],
+          correct: "C. floor area of ownership"
       },
       {
-        question: "Philippine REIT companies are subject to the reportorial and disclosure requirements prescribed by the following EXCEPT __________.",
-        options: ["A. Local Government Code", "B. Securities Regulation Code", "C. SEC Regulations", "D. Corporation Code"],
-        correct: "A. Local Government Code",
+          question: "Mr. Santos owns the following landholdings: a. Five (5) hectares devoted to coconuts with no tenant; b. 500 sq. m. in Juna Subdivision; c. 2 hectares granted by DAR to be converted to raising of poultry; and d. Five (5) hectares actually, directly and exclusively used as fishponds. How many hectares, if any, can be covered under CARP?",
+          options: ["A. None", "B. 5 hectares", "C. 7 hectares", "D. 12 hectares"],
+          correct: "A. None"
       },
       {
-        question: "\"Right of way\" is a kind of _________________:",
-        options: ["A. Accretion", "B. Easement and Servitude", "C. Setback", "D. Dominant Estate"],
-        correct: "B. Easement and Servitude",
+          question: "A kind of sale whereby payment of the contract is made at some future date and that the ownership of the property shall be retained by the owner until full payment is made.",
+          options: ["A. Deed of Absolute Sale", "B. Contract of sale", "C. Down payment", "D. Contract to Sell"],
+          correct: "D. Contract to Sell"
       },
       {
-        question: "What is the process of computing the future value?",
-        options: ["A. Compounding", "B. Amortization", "C. Capitalization", "D. Discounting"],
-        correct: "A. Compounding",
+          question: "If a broker is a member of an organization, the real estate broker should not engage in the following",
+          options: ["A. Be an officer and serve if elected", "B. Electioneering during the annual elections", "C. Support the programs or the organization", "D. Pay on time the dues of the organization"],
+          correct: "B. Electioneering during the annual elections"
       },
       {
-        question: "Refers to the development of land for residential, commercial, industrial, agricultural, institutional or recreational purposes, or any combination of such including, but not limited to tourist resorts, reclamation projects, building or housing projects, whether for individual or condominium ownership, memorial parks and other similar nature.",
-        options: ["A. Subdivision", "B. Multi-estate Project", "C. Real Estate Development Project", "D. Progressive Investments"],
-        correct: "C. Real Estate Development Project",
+          question: "The tax imposed on profit presumed have been realized on the sale or disposition of lands and/or buildings.",
+          options: ["A. Estate Tax", "B. Capital Gains Tax", "C. Inheritance Tax", "D. Realty Tax"],
+          correct: "B. Capital Gains Tax"
       },
       {
-        question: "The exemption on the payment of Capital Gains to be valid, within how many months from the sale or disposition of a residential unit is allowed in which the proceeds is to be used in acquiring or construction of a new principal residence?",
-        options: ["A. 9 months", "B. 12 months", "C. 18 months", "D. 24 months"],
-        correct: "C. 18 months",
+          question: "A natural born American citizen from Hawaii may own a house in the Philippines which may be possible under this condition",
+          options: ["A. He leases the land builds a house", "B. He marries a Filipina", "C. He becomes a dual citizen", "D. He avails of the special resident visa"],
+          correct: "A. He leases the land builds a house"
       },
       {
-        question: "RES NULLIUS means:",
-        options: ["A. Nothing on this earth is without an owner", "B. No two (2) lots are the same", "C. No two (2) lots are exactly the same", "D. No two (2) persons are exactly alike"],
-        correct: "A. Nothing on this earth is without an owner",
+          question: "Under the Civil Code, rental income from a building is considered a -",
+          options: ["A. Civil fruit", "B. Industrial fruit", "C. Natural fruit of property", "D. Commercial revenue"],
+          correct: "A. Civil fruit"
       },
       {
-        question: "_________ is synonymous with public use, public interest benefit. It is the general concept of meeting public need or public exigency.",
-        options: ["A. Common and Public Welfare and Services", "B. Public Domain and Welfare", "C. Public Resources Allocation", "D. Public Benefit Domain"],
-        correct: "A. Common and Public Welfare and Services",
+          question: "Ownership of real estate in the Philippines is foremost and primarily governed by:",
+          options: ["A. 1987 Philippine Constitution", "B. Special laws enacted by Congress", "C. New Civil Code provisions of Property Ownership", "D. 1935 Philippine Constitution"],
+          correct: "A. 1987 Philippine Constitution"
       },
       {
-        question: "Socialized housing or resettlement areas shall be provided by the local government unit or the National Housing Authority with the following basic services and facilities, except ______________.",
-        options: ["A. Power and electricity", "B. Mineral Water", "C. Sewerage Facilities", "D. Access to transportation facilities"],
-        correct: "B. Mineral Water",
+          question: "Under R.A. No. 3844, the following are causes for terminating leasehold relation, EXCEPT:",
+          options: ["A. Voluntary surrender", "B. Abandonment", "C. Death or permanent incapacity of the agricultural lessee (tenant)", "D. Absence of an heir to succeed the agricultural lessee"],
+          correct: "C. Death or permanent incapacity of the agricultural lessee (tenant)"
       },
       {
-        question: "What is the basis for the assessment of real property in the Philippines, regardless of where the property is located, whoever owns it, and whoever uses it?",
-        options: ["A. Assessment levels", "B. Classifying the property", "C. Assessing the property", "D. Actual use of the property"],
-        correct: "D. Actual use of the property",
+          question: "Refers to the sale where the seller has the right to repurchase the property being sold.",
+          options: ["A. Pacto de Retro Sale", "B. Deed of Sale With Mortgage", "C. Dacion En Pago", "D. Sale with Assumption of Mortgage"],
+          correct: "A. Pacto de Retro Sale"
       },
       {
-        question: "The declaration of Principle of the Code of Ethics for Realty Service Practitioners clearly states the Golden Rule which says:",
-        options: ["A. Treat others as you wanted them to be treated", "B. Do not do unto others what you want others do unto you", "C. Do unto others what you do not want others do unto you", "D. Treat others as you like them to treat you"],
-        correct: "D. Treat others as you like them to treat you",
+          question: "Agricultural lands, more than one (1) hectare in area, suitable for cultivation dairying, inland fishery and other agricultural uses may be subject to idle land tax if it remains uncultivated or unimprovement by the owner or owners to the extent of",
+          options: ["A. 100%", "B. 1/4 of the land", "C. 1/2 of the land", "D. 60% of the land"],
+          correct: "C. 1/2 of the land"
       },
       {
-        question: "How would you best describe a professional real estate service practitioner's responsibility to one's client?",
-        options: ["A. Pay all the necessary fees and taxes", "B. Practicing the National Code of Ethics and Standards", "C. Participating in social and civil works", "D. None of the above"],
-        correct: "B. Practicing the National Code of Ethics and Standards",
+          question: "In order for the local government to impose and implement the tax due for real estate taxes for the city it must be through",
+          options: ["A. Executive order of the Mayor", "B. Approved local tax ordinance", "C. Memorandum of the city council", "D. Resolution of the sangguniang bayan"],
+          correct: "B. Approved local tax ordinance"
       },
       {
-        question: "A real estate broker attempts to generate listings by contracting people in a particular neighborhood and suggesting that their property values might be going down soon because a particular unwanted group is coming into the neighborhood. This practice is called:",
-        options: ["A. Soliciting", "B. Farming", "C. Prospecting", "D. Blockbusting"],
-        correct: "D. Blockbusting",
+          question: "For real estate taxes, the Local Government Code provides the same accrues",
+          options: ["A. Every end of the quarter for the year", "B. On 1st day of January", "C. Upon notice of assessment", "D. Every beginning of the quarter for the year"],
+          correct: "B. On 1st day of January"
       },
       {
-        question: "The preparation of a zoning plan and ordinances, like the proper action of any other element of the comprehensive plan should begin with the following, EXCEPT:",
-        options: ["A. Political", "B. Population and its Characteristics", "C. Economic functions of the Community", "D. Physical Condition"],
-        correct: "A. Political",
+          question: "For violation of the code of ethics, the following penalty may be imposed by the broker's professional real estate organization",
+          options: ["A. Removal of license", "B. Suspension of license", "C. Removal from roster of registered real estate brokers", "D. Expulsion from the organization"],
+          correct: "D. Expulsion from the organization"
       },
       {
-        question: "To obviate or guard against unauthorized substitution of pages, in how many pages of the instrument, including the page whereon the notarial acknowledgement is written, must be signed by the parties and their witnesses?",
-        options: ["A. All pages", "B. First and last page", "C. Last pages only", "D. Page with name of the authorized signatory"],
-        correct: "A. All pages",
+          question: "Which of the following is not exempted from real estate taxes:",
+          options: ["A. Electric cooperative", "B. Multi-purpose cooperative registered under RA 6938", "C. public cemetery", "D. private non-sectarian school"],
+          correct: "A. Electric cooperative"
       },
       {
-        question: "Your seller client needs to sell property quickly because he is going abroad. He asks you to keep this information confidential. What should you do?",
-        options: ["A. You tell buyers this so the house sells quickly", "B. You keep this information confidential", "C. You tell the buyers only if they ask", "D. You reveal this information only to cash buyers"],
-        correct: "B. You keep this information confidential",
+          question: "What is the function of HSAC",
+          options: ["A. adjudicatory function", "B. regulatory function", "C. central housing authority function", "D. main policy making function"],
+          correct: "A. adjudicatory function"
       },
       {
-        question: "Refers to law on acquisition by a natural-born Filipino citizen on property for business.",
-        options: ["A. BP 185", "B. RA 9225", "C. RA 8179", "D. RA 7279"],
-        correct: "C. RA 8179",
+          question: "Mr. Parco failed to pay his real estate tax due on the time and he will be subject to a penalty equivalent to",
+          options: ["A. 10% Per month", "B. 2% per month", "C. 5% per month", "D. 20% per month"],
+          correct: "B. 2% per month"
       },
       {
-        question: "Novice real estate brokers have limitations and should refrain from accepting some listings. Which of these limitations is not a bar to accepting such listings?",
-        options: ["A. The broker does not have a database of regular clients", "B. The broker lacks the expertise for some listings which requires higher skills or knowledge beyond their capability", "C. The location of the listing is too far to assure diligent efforts to service prospective buyers", "D. The broker is a part-time broker and cannot give full attention to listings"],
-        correct: "A. The broker does not have a database of regular clients",
+          question: "The share of an illegitimate child in their father's estate is equivalent to the state of the legitime of the legitime child in the share of",
+          options: ["A. Equal Share", "B. On-Third share", "C. One-Half share", "D. No share"],
+          correct: "C. One-Half share"
       },
       {
-        question: "You are representing Seller Sharon and you bring Buyer Ruffa to see the house. Ruffa makes an offer. Ruffa had told you in confidence about the bankruptcy she went through two years ago, but she thinks she will be financially approved to buy the house. What should you do with the information about the bankruptcy?",
-        options: ["A. Tell Seller Sharon", "B. Keep the information confidential like Ruffa asked you to", "C. Keep the information confidential unless the deal doesn't go through", "D. Contact the bank to verify Ruffa's financial status"],
-        correct: "A. Tell Seller Sharon",
+          question: "In case a person owns a piece of land, it can be used for legal purposes, and the government may exercise is power referred as",
+          options: ["A. Government restriction", "B. Land use plan", "C. Police power", "D. Building permit"],
+          correct: "C. Police power"
       },
       {
-        question: "What is the term used to describe a land whose value has been diminished due to some internal defect or external condition?",
-        options: ["A. Marginal", "B. Spoiled", "C. Blighted", "D. Disadvantage"],
-        correct: "A. Marginal",
+          question: "A form of property ownership document issued by the Department of Agrarian Reform",
+          options: ["A. Homestead patent", "B. Transfer Certificate of Title", "C. Certificate of Land Ownership", "D. Warranty Deed"],
+          correct: "C. Certificate of Land Ownership"
       },
       {
-        question: "Which of the following statements is untrue?",
-        options: ["A. NOI equals all revenue from the property, minus all reasonably necessary operating expenses", "B. The capitalization rate, often just called the cap rate", "C. In an Ordinary Annuity, payments are required at the end of each period", "D. None of the above"],
-        correct: "D. None of the above",
+          question: "By this contract, the creditor acquires the right to receive the fruits of an immovable of the debtor, with the obligation to apply them to the payment of interest, if any, and then to the principal of the debt",
+          options: ["A. Mortgage", "B. Hypothecation", "C. Pledge", "D. Antichresis"],
+          correct: "D. Antichresis"
       },
       {
-        question: "Juan sold his property to Pedro, who did not register the deed and not took physical possession of the same. Then, Juan sold the same property to Maria, who was not aware of the prior deed to Pedro. Maria registered the deed. In the subsequent dispute over title between Pedro and Maria, which rule would be important?",
-        options: ["A. All deeds must be acknowledged to be valid", "B. All deeds must be registered to be valid", "C. The date of the deed determines who is first in the right", "D. The person who registered first, in good faith is the first in right"],
-        correct: "D. The person who registered first, in good faith is the first in right",
+          question: "The right to possess, use, enjoy the fruits, dispose, recover, and exclude others from property is generally called -",
+          options: ["A. Civil rights", "B. Bundle of rights", "C. Constitutional rights", "D. None of the above"],
+          correct: "B. Bundle of rights"
       },
       {
-        question: "The principle that no two parcels of land are ever exactly the same:",
-        options: ["A. Land is unique", "B. Land is permanent", "C. Land is immobile", "D. Land is scarce"],
-        correct: "A. Land is unique",
+          question: "The real estate tax on the house and lot owned by Ms. Millie may be paid without penalty interest in",
+          options: ["A. 2 semi-annual payments", "B. 4 payments", "C. 4 equal quarterly payments", "D. Monthly payments"],
+          correct: "C. 4 equal quarterly payments"
       },
       {
-        question: "Urban Development and Housing Act of 1992 is R.A.___________?",
-        options: ["A. RA 7279", "B. RA 9904", "C. RA 7899", "D. RA 6657"],
-        correct: "A. RA 7279",
+          question: "For a seller to be considered as habitually engaged in real estate business, he must have consummated at least taxable real estate transactions during the preceding year:",
+          options: ["A. Five", "B. Six", "C. Eight", "D. Ten"],
+          correct: "B. Six"
       },
       {
-        question: "The priority right of a tenant to buy the land allocated in an urban land reform area is known as:",
-        options: ["A. Tenant's possessory right", "B. Tenant's retention right", "C. Tenant's incremental right", "D. Tenant's right of first refusal"],
-        correct: "D. Tenant's right of first refusal",
+          question: "An item that was once personal property that has become part of the real estate is referred to as",
+          options: ["A. Real property", "B. Real estate", "C. Fixture", "D. Equipment"],
+          correct: "C. Fixture"
       },
       {
-        question: "The standard color scheme for parks and open spaces:",
-        options: ["A. Orange", "B. Green", "C. Scarlet", "D. Yellow Red"],
-        correct: "B. Green",
+          question: "A real assessment of Real property may be made due to the following grounds, except:",
+          options: ["A. Any great and sudden inflation or deflation of real property values", "B. Gross illegality of the assessment", "C. Change of Owner of the property", "D. A partial or total destruction of Real property"],
+          correct: "C. Change of Owner of the property"
       },
       {
-        question: "What does R.A. 9646 stand for?",
-        options: ["A. Real Estate Service Practitioner's Act", "B. Real Estate Investment Service Law", "C. Real Estate Service Act of the Philippines", "D. Real Estate Protection Act"],
-        correct: "C. Real Estate Service Act of the Philippines",
+          question: "The creditable withholding tax rate for a house and lot sold for P1,800,000 by developer who is habitually engaged is:",
+          options: ["A. 0%", "B. 1.5%", "C. 3%", "D. 5%"],
+          correct: "C. 3%"
       },
       {
-        question: "To whom the real estate salesperson shall demand a fee, commission or compensation of any kind for any service rendered or work done by him in any real estate transaction?",
-        options: ["A. Buyer", "B. Real Estate Broker", "C. Real Estate Developer", "D. All of the Above"],
-        correct: "B. Real Estate Broker",
+          question: "The government may disposes or alienate lands of the public domain provided the classification is:",
+          options: ["A. Residential", "B. Forest Land", "C. Commercial", "D. Agricultural"],
+          correct: "D. Agricultural"
       },
       {
-        question: "A duly registered and licensed natural person who, for a professional fee, commission or other valuable consideration acts as an agent of a party in a real estate transaction to offer, advertise, solicit, list, promote, mediate, negotiate or effect the meeting of the minds on the sale, purchase, exchange, mortgage, lease or joint venture, or other similar transactions on real estate or any interest therein.",
-        options: ["A. Assessor", "B. Consultant", "C. Appraiser", "D. Broker"],
-        correct: "D. Broker",
+          question: "Among the listed land classifications, which is devoted principally for activities as capital investment?",
+          options: ["A. agricultural", "B. commercial", "C. Residential", "D. Industrial"],
+          correct: "D. Industrial"
       },
       {
-        question: "What is the (required) minimum CPD units for salespersons?",
-        options: ["A. 10", "B. 5", "C. 60", "D. 120"],
-        correct: "A. 10",
+          question: "An illegitimate minor child may use the surname of the father who is married to another, provided",
+          options: ["A. The mother agrees", "B. The father executes an affidavit of acknowledgement", "C. The child is not over 7 years of age", "D. The father and mother eventually marries"],
+          correct: "B. The father executes an affidavit of acknowledgement"
       },
       {
-        question: "The policies, rules and regulations by the PRBRES shall be subject to the review and approval by:",
-        options: ["A. Office of the President", "B. Accredited Professional Organization", "C. Professional Regulations Commission", "D. Civil Service Commission"],
-        correct: "C. Professional Regulations Commission",
+          question: "A charge against a property in which the property is security for payment of a debt is called a",
+          options: ["A. Lien", "B. Mortgage", "C. escheat", "D. restriction"],
+          correct: "B. Mortgage"
       },
       {
-        question: "The Real Estate Service Act is a consolidation of Senate Bill No. 2963 and House Bill No. 3514 and was finally passed by the Senate and the House of Representatives on:",
-        options: ["A. July 28, 2008", "B. May 12, 2009", "C. June 29, 2009", "D. July 21, 2010"],
-        correct: "B. May 12, 2009",
+          question: "It is one whereby the owner leases his property to the lessee buyer with the privilege to exercise the right to buy thereof at a specific date at an agreed price and the agreed rental may be considered as part at the purchase price when the lessee-buyer exercise the option.",
+          options: ["A. Purchase Agency", "B. Lease with Option to Buy", "C. Real estate Mortgage", "D. Contract of Lease"],
+          correct: "B. Lease with Option to Buy"
       },
       {
-        question: "Under the provision of RESA, a violation of any real estate service practitioner whose license expired or suspended shall be as follows:",
-        options: ["A. Penalty of Php 100,000 or two years imprisonment or both upon the discretion of the court", "B. Penalty of Php 200,000 or two years imprisonment or both upon the discretion of the court", "C. Penalty of Php 100,000 or four years imprisonment or both upon the discretion of the court", "D. Penalty of Php 200,000 or four years imprisonment or both upon the discretion of the court"],
-        correct: "A. Penalty of Php 100,000 or two years imprisonment or both upon the discretion of the court",
+          question: "Under the Assessment Calendar, the submission of the Schedule of Fair Market Values to the Sanggunian concerned & conduct of public hearings should be done not later than October 31 of the:",
+          options: ["A. first Year", "B. second year", "C. third year", "D. fourth year"],
+          correct: "A. first Year"
       },
       {
-        question: "Maximum number of agents which can be accommodated by a licensed real estate broker:",
-        options: ["A. 1", "B. 20", "C. 10", "D. 50"],
-        correct: "B. 20",
+          question: "It is a voluntary limitation on one's right of ownership to land",
+          options: ["A. Deed of Restriction", "B. Building code", "C. Zoning", "D. Land Use Plan"],
+          correct: "A. Deed of Restriction"
       },
       {
-        question: "Any of these acts shall be ground for revocation of license, except:",
-        options: ["A. Misappropriation", "B. Misrepresentation", "C. Paying and receiving rebate", "D. Non-payment of dues"],
-        correct: "D. Non-payment of dues",
+          question: "Disadvantages of REITS, EXCEPT",
+          options: ["A. Real estate is cyclical and goes with the income", "B. Subject to tax hikes on properties imposed locally and nationally", "C. Slower growth compared to other equities", "D. Real estate beats the effect of inflation"],
+          correct: "D. Real estate beats the effect of inflation"
       },
       {
-        question: "All of the following are instances whereby a licensed real estate person can enter into a real estate transaction without making his/her supervisory real estate broker a co-signatory, except:",
-        options: ["A. Transactions involving his/her own real estate property", "B. Transactions involving the sale, purchase, exchange, mortgage, lease or joint venture of real estate", "C. He/she is appointed as receiver, trustee or assignee in bankruptcy or insolvency proceedings", "D. He/she is appointed as attorney-in-fact for purposes of entering into a real estate transaction without any form of compensation or remuneration"],
-        correct: "B. Transactions involving the sale, purchase, exchange, mortgage, lease or joint venture of real estate",
+          question: "Refers to a notice that the property has a pending litigation.",
+          options: ["A. Lis Pendens", "B. Adverse Claim", "C. Court Case", "D. Petition to Quiet Title"],
+          correct: "A. Lis Pendens"
       },
       {
-        question: "Who shall act as prosecutors against illegal practitioners and other violators of R.A. No. 9646 and its IRR?",
-        options: ["A. The PRBRES", "B. The Lawyers of the PRC", "C. The Municipal Trial Court", "D. None of the above"],
-        correct: "B. The Lawyers of the PRC",
+          question: "Under the local government code, the owner must file a sworn declaration of value of the Property once every",
+          options: ["A. 1 Year", "B. 2 Years", "C. 3 Years", "D. Upon general revision"],
+          correct: "C. 3 Years"
       },
       {
-        question: "The PRBRES in cooperation with the CHED or the concerned Colleges and Universities will undertake the evaluation of the following in the offering of the course of BSREM, except:",
-        options: ["A. Curriculum of the school offering BSREM", "B. Facilities of the school offering BSREM", "C. Screening in the Recruitment of faculty members", "D. All of the above"],
-        correct: "C. Screening in the Recruitment of faculty members",
+          question: "In the sale of principal residence and exemption thereof, the following shall be exempted to the seller:",
+          options: ["A. CGT", "B. CGT and DST", "C. DST", "D. VAT"],
+          correct: "A. CGT"
       },
       {
-        question: "Executive Order No. 833. Creating The Property Valuation Office (PVO) For Purposes of Sustaining And Instituting Real Property Valuation Reform:",
-        options: ["A. October 14 1989", "B. October 13 2009", "C. November 14 1998", "D. November 13 2008"],
-        correct: "B. October 13 2009",
+          question: "The following is not considered as an involuntary grant",
+          options: ["A. Sales through foreclosure sale", "B. Sales through execution sale", "C. Sales of condo unit to a foreigner", "D. Sales through auction sale due to unpaid real estate taxes"],
+          correct: "C. Sales of condo unit to a foreigner"
       },
       {
-        question: "Who is qualified Chairman of the Continuing Professional Development Council?",
-        options: ["A. PRBRES Board Member", "B. AIPO Representative", "C. Academe Representative", "D. All of the Above"],
-        correct: "A. PRBRES Board Member",
+          question: "REITs are like",
+          options: ["A. Insurance", "B. Equities", "C. Bonds", "D. Mutual Funds"],
+          correct: "D. Mutual Funds"
       },
       {
-        question: "Which of the following is FALSE?",
-        options: ["A. In an agency coupled with an interest, the death of the agent terminates the agency", "B. If the agent dies, his heirs must notify the principal thereof, and in the meantime adopt such measures as the circumstances may demand in the interest of the latter", "C. An offer made through an agent is accepted from the time it is communicated to him", "D. The agent, even if he should withdraw from the agency for a valid reason, must act until the principal has had reasonable opportunity to take the necessary steps to meet the situation"],
-        correct: "A. In an agency coupled with an interest, the death of the agent terminates the agency",
+          question: "An Act that provides the mechanism for land use inventory, acquisition, disposition and provision of socialized housing for the underprivileged and homeless.",
+          options: ["A. RA 6559", "B. RA 7160", "C. RA 7279", "D. None of the above"],
+          correct: "C. RA 7279"
       },
       {
-        question: "All Continuing Professional Development in order for it to be honored by the PRBRES shall be conducted by:",
-        options: ["A. Accredited Service Providers", "B. Real Estate Organizations", "C. Review Centers", "D. All of the above"],
-        correct: "A. Accredited Service Providers",
+          question: "Voluntary restrictions on property ownership includes the following, except -",
+          options: ["A. Lease contracts", "B. Easements", "C. Taxes", "D. Usufruct"],
+          correct: "C. Taxes"
       },
       {
-        question: "The Continuing Professional Education Council shall be composed of the Chairman and how many members?",
-        options: ["A. Two Members", "B. Three Members", "C. Four Members", "D. None of the Above"],
-        correct: "A. Two Members",
+          question: "It is the right of a person to the fruits of a property even if the property is not owned by the said person",
+          options: ["A. Usufruct", "B. Tenancy Arrangement", "C. Harvest agreement", "D. Lease agreement"],
+          correct: "A. Usufruct"
       },
       {
-        question: "PRB-RES shall register and issue a certificate of registration to any successful examinee who:",
-        options: ["A. has been convicted by court of any criminal offense involving moral turpitude", "B. was found guilty of immoral/dishonorable conduct after investigation by the Board", "C. is of good moral character", "D. was founded to be psychologically unfit"],
-        correct: "C. is of good moral character",
+          question: "The following does not have a BIR zonal value",
+          options: ["A. Condominium Unit", "B. Agricultural land", "C. Condominium parking space", "D. Building improvements"],
+          correct: "D. Building improvements"
       },
       {
-        question: "What is the policy/principle under RA 9646 which allows foreign real estate practitioners to practice in the Philippines as long as the country of such foreigner allows Filipino real estate practitioners to do the same?",
-        options: ["A. Adherence to foreign policy", "B. Bilateral foreign relation", "C. Declaration of policy under RA9646", "D. Foreign reciprocity"],
-        correct: "D. Foreign reciprocity",
+          question: "The creditable withholding tax for the sale of a lot by a developer is also referred to as",
+          options: ["A. Capital Gain Tax", "B. Final Tax", "C. Prepaid income Tax", "D. Advance withholding Tax"],
+          correct: "D. Advance withholding Tax"
       },
       {
-        question: "The word \"Commission\" in RA 9646 stands for?",
-        options: ["A. Professional Fee", "B. Broker's Commission", "C. Real Estate Board", "D. PRC"],
-        correct: "D. PRC",
+          question: "A Filipina got married to a foreigner on August 3, 1998. In such case the Filipina may still buy land in the Philippines, provided",
+          options: ["A. She becomes a dual citizen", "B. She has not renounced her citizenship", "C. She buys land under BP 185", "D. She buys a maximum of 1,000 sqms if residential land only"],
+          correct: "B. She has not renounced her citizenship"
       },
       {
-        question: "Refers to a duly registered and licensed natural person who, for a professional fee, commission or other valuable consideration, acts as an agent of a party in a real estate transaction to offer, advertise, solicit, list, promote, mediate, negotiate or effect the meeting of the minds on the sale, purchase, exchange, mortgage, lease or joint venture, or other similar transactions on real estate or any interest therein.",
-        options: ["A. Assessor", "B. Consultant", "C. Appraiser", "D. Broker"],
-        correct: "D. Broker",
+          question: "For late payment of special education fund tax, the lot owner shall be liable to pay a maximum total interest of",
+          options: ["A. 5 years", "B. 3 years", "C. Until Paid", "D. All year unpaid"],
+          correct: "C. Until Paid"
       },
       {
-        question: "A ____ is an inertial or fictitious force that acts on objects in motion within a frame of reference that rotates with respect to an inertial frame. In a reference frame with clockwise rotation, the force acts to the left of the motion of the object.",
-        options: ["A. Coriolis Force", "B. Angular Velocity", "C. Euler Force", "D. Centrifugal Force"],
-        correct: "A. Coriolis Force",
+          question: "Ms. Alona will get married this year and will enter into a prenuptial agreement with agreement on complete separation of property regime. What will be their property relations after marriage?",
+          options: ["A. Conjugal partnership of gains", "B. Separation of property", "C. Absolute community property", "D. Co-ownership"],
+          correct: "B. Separation of property"
       },
       {
-        question: "What does PRBRES stand for?",
-        options: ["A. Philippine Regulatory Board of Real Estate Service", "B. Professional Regulations Board of Real Estate Service", "C. Professional Regulatory Board of Real Estate Service", "D. Philippine Registration Board of Real Estate Service"],
-        correct: "C. Professional Regulatory Board of Real Estate Service",
+          question: "Under Rule 4, Sec 27, the following acts constitute the practice of real estate service except:",
+          options: ["A. Real Estate brokerage", "B. Real Estate Appraisal", "C. Real Estate Management", "D. Real Estate Consultancy"],
+          correct: "C. Real Estate Management"
       },
       {
-        question: "Licensed real estate service practitioners as defined in the RA 9646 are the following, except:",
-        options: ["A. Licensed Real Estate Developer", "B. Licensed Real Estate Appraiser", "C. Licensed Real Estate Broker", "D. None of the Above"],
-        correct: "A. Licensed Real Estate Developer",
+          question: "The daughter of a Filipino went to abroad and then became a foreign citizen. The daughter may still own land in the Philippines upon the death of the parents by",
+          options: ["A. Acquiring dual citizenship", "B. Hereditary succession", "C. Marriage to a Filipina", "D. Donation from the parents"],
+          correct: "B. Hereditary succession"
       },
       {
-        question: "What is the term used when an American citizen is allowed to practice real estate here in the Philippines because the Filipinos are also allowed to practice in the US?",
-        options: ["A. ASEAN Integration", "B. APEC-tive", "C. Foreign Reciprocity", "D. Realtor"],
-        correct: "C. Foreign Reciprocity",
+          question: "It is the physical, tangible entity, together with all the additions or improvements on, above or below the ground, includes all the rights, interest and benefits related to the ownership of real estate",
+          options: ["A. Real estate", "B. Real estate rights", "C. Real property", "D. Real estate ownership"],
+          correct: "C. Real property"
       },
       {
-        question: "Legally permissible, physically possible, financially feasible and maximally productive is known as _____________________.",
-        options: ["A. Competition", "B. Supply and demand", "C. Principle of change", "D. Highest and best use"],
-        correct: "D. Highest and best use",
+          question: "The real estate practitioner should ensure the highest and best use of the land and the equitable distribution of the ownership, irrespective of political beliefs, cultural background, sect, religion, or class. This rule of conduct and practice is under:",
+          options: ["A. Relation to the Government", "B. Relation to the Public", "C. Relation to the Client", "D. Relation to Fellow Practitioners"],
+          correct: "B. Relation to the Public"
       },
       {
-        question: "Define Donor's Tax.",
-        options: ["A. Tax on transmitting one's property to others without adequate and full consideration", "B. Tax on transmitting one's property or property rights to others without adequate and full consideration", "C. Tax on the privilege of transmitting one's property or property rights to others without adequate and full consideration", "D. Tax on the privilege of transmitting one's property to others without adequate and full consideration"],
-        correct: "C. Tax on the privilege of transmitting one's property or property rights to others without adequate and full consideration",
+          question: "Certificate of Registration shall be issued to the licensed real estate service practitioner and shall be assigned to each of them. The professional Identification Card shall be valid:",
+          options: ["A. Every three years and valid until December 31 of every third year", "B. Every three years and valid until the licensee's birthdate", "C. Every three years", "D. Issued a new one after three years"],
+          correct: "B. Every three years and valid until the licensee's birthdate"
       },
       {
-        question: "An act strengthening and amending some provision of the Comprehensive Agrarian Reform Law:",
-        options: ["A. RA 6657", "B. RA 7279", "C. RA 9700", "D. RA 6552"],
-        correct: "C. RA 9700",
+          question: "Which of the following acts can be considered to be unethical for a real estate broker?",
+          options: ["A. The broker should cooperate with other brokers on property listed", "B. The broker should share the commission on an agreed basis", "C. The broker should seek no unfair advantage over his fellow brokers", "D. The brokers can use the services of the salesman of another broker provided he pays the salesperson a commission"],
+          correct: "D. The brokers can use the services of the salesman of another broker provided he pays the salesperson a commission"
       },
       {
-        question: "Under the Maceda Law, when a contract to sell is rescinded, what percentage of the cash surrender value should be returned to the buyer in case he has been paying his amortizations for the past 10 years?",
-        options: ["A. 50%", "B. 75%", "C. 90%", "D. 60%"],
-        correct: "B. 75%",
+          question: "Ms. Honney will marry this coming year but does not intend to enter into a marriage settlement. What will be their property relation after marriage?",
+          options: ["A. Conjugal partnership of gains", "B. Relative community of property", "C. Absolute community property", "D. Co-ownership"],
+          correct: "C. Absolute community property"
       },
       {
-        question: "Broker Romy had just closed the sale of a 700 sq.m. commercial lot in Pasig. The selling price agreed upon is Php 35,000 per sq.m. The seller has agreed to pay all the expenses, to prepare several checks. What amounts should he indicate for the capital gains tax? The zonal valuation of the lot is Php 37,000 per sq.m.",
-        options: ["A. Php 1,470,000", "B. Php 1,554,000", "C. Php 1,654,000", "D. Php 1,454,000"],
-        correct: "B. Php 1,554,000",
+          question: "MACEDA Law is what RA#?",
+          options: ["A. RA 6552", "B. RA 6655", "C. RA 7655", "D. RA 6635"],
+          correct: "A. RA 6552"
       },
       {
-        question: "What is the coverage of CARPER?",
-        options: ["A. Rice and Corn Land", "B. Coconut plantations and orchards", "C. All agricultural land regardless of planting as well as land of the public domain suitable for agriculture", "D. Fish, prawn and other land used for livestock"],
-        correct: "C. All agricultural land regardless of planting as well as land of the public domain suitable for agriculture",
+          question: "Properties of public dominion are the following, except –",
+          options: ["A. Properties of the State intended for public use by anybody;", "B. Properties of the State reserved for the development of national wealth like natural resources", "C. Properties of the State to be used for public service", "D. Properties of the State that can be sold to the private sector"],
+          correct: "D. Properties of the State that can be sold to the private sector"
       },
       {
-        question: "Which of the following may file a mechanic's lien if not paid?",
-        options: ["A. Building contractor", "B. Mechanical Contractor", "C. An Electrician", "D. All of the above"],
-        correct: "D. All of the above",
+          question: "Mrs. Wung got married last August 2012, but her father donated to her a condominium unit in Makati before she got married. In such case, the property will be considered:",
+          options: ["a) Exclusive property", "b) Conjugal property", "c) Community property", "d) Separate property"],
+          correct: "c) Community property"
       },
       {
-        question: "Based on the local government code, how often shall real property be revised?",
-        options: ["A. Every three (3) years", "B. Every two (2) years", "C. Every one (1) year", "D. None of the above"],
-        correct: "A. Every three (3) years",
+          question: "The following is not considered a public grant",
+          options: ["A. Free patent issued by the government", "B. Sales Patent", "C. Sale by city treasurer due to delinquent real estate taxes", "D. Homestead grant"],
+          correct: "C. Sale by city treasurer due to delinquent real estate taxes"
       },
       {
-        question: "The Special Education Fund Tax is an annual levy on real estate equivalent to 1% of assessed value which shall be in addition to the:",
-        options: ["A. Ad Valorem Tax", "B. Capital Gain Tax", "C. Basic Real Estate Tax", "D. Documentary Stamps Tax"],
-        correct: "C. Basic Real Estate Tax",
+          question: "The BIR examiner, in case of the sale of a person of a house and lot considered as ordinary asset, must first determine the following before the examiner will be able to know the rate of tax to be imposed;",
+          options: ["A. whether the person is habitually engaged in real estate business or not", "B. whether the property is conjugal or community property", "C. the selling price, zonal value or assessor's value whichever is higher", "D. whether the house and lot is new or old"],
+          correct: "A. whether the person is habitually engaged in real estate business or not"
       },
       {
-        question: "The agency that now insures deposits in financial institutions:",
-        options: ["A. PDIC", "B. BSP", "C. GSIS", "D. HIGC"],
-        correct: "A. PDIC",
+          question: "When soil is deposited through the gradual by the following of the river in the property along the river, the deposited soil is called",
+          options: ["A. Avulsion", "B. Alluvium", "C. Accretion", "D. River bed"],
+          correct: "B. Alluvium"
       },
       {
-        question: "When a donee of a parcel of land is a stranger, the donor's tax rate is:",
-        options: ["A. 0%", "B. 6%", "C. 18%", "D. 20%"],
-        correct: "B. 6%",
+          question: "Which of the following is considered as a voluntary limitation on one's of ownership to land",
+          options: ["A. Right of way agreement", "B. Police power", "C. Taxation", "D. Zoning regulations"],
+          correct: "A. Right of way agreement"
       },
       {
-        question: "What is the tax payable to the local government unit for sale, transfer or other disposition of real estate, whether the real estate is capital or ordinary asset?",
-        options: ["A. Transfer Tax", "B. Withholding Tax", "C. Capital Gains Tax", "D. Value Added Tax"],
-        correct: "A. Transfer Tax",
+          question: "Two neighbors enter into a sale of a house and lot in cash. This type of transfer is referred to as",
+          options: ["A. Involuntary grant", "B. Private grant", "C. Installment grant", "D. Adjacent owner grant"],
+          correct: "B. Private grant"
       },
       {
-        question: "The Creditable Withholding Tax in the sale of an acquired foreclosed asset of a bank in the amount of Php850,000.00 is:",
-        options: ["A. 1.5%", "B. 3.0%", "C. 5.0%", "D. 6.0%"],
-        correct: "D. 6.0%",
+          question: "In taxation, the basis for the computation of the capital gains tax on the sale of a house and lot, shall be the following whichever is higher, except:",
+          options: ["A. Appraised value", "B. Zonal value", "C. Selling price of the sale", "D. Assessor's value"],
+          correct: "A. Appraised value"
       },
       {
-        question: "What is the maximum area that can be granted to any one beneficiary of CARPER?",
-        options: ["A. 2 hectares", "B. 3 hectares", "C. 4 hectares", "D. 5 hectares"],
-        correct: "B. 3 hectares",
+          question: "It is the power of the state to take private property for the purpose of public use, provided there is payment of just compensation",
+          options: ["A. Expropriation", "B. Eminent Domain", "C. Police Power", "D. Escheat"],
+          correct: "B. Eminent Domain"
       },
       {
-        question: "If a person died leaving a will, what is the special court proceedings that must be instituted to determine the validity of the testamentary disposition of the deceased?",
-        options: ["A. Petition to Quiet the Title", "B. Reconstitution of Title", "C. Probate Proceedings", "D. Petition for partition of property"],
-        correct: "C. Probate Proceedings",
+          question: "In case a real estate brokers are also a real estate appraiser, he or she may not appraise the property of his client if",
+          options: ["A. He will not be paid a professional fee", "B. He will also sell the property after appraising it", "C. He is a new real estate appraiser", "D. The owner wants a predetermined price of the property"],
+          correct: "B. He will also sell the property after appraising it"
       },
       {
-        question: "The homeowners association is registered with?",
-        options: ["A. DHSUD", "B. PDIC", "C. SEC", "D. DENR"],
-        correct: "A. DHSUD",
+          question: "Quieting of Title means",
+          options: ["A. To ban the Owner from obtaining a copy of the property's title", "B. To bring to court an action involving a question of ownership or rights to a property", "C. To cancel the title of the property", "D. To apply for a new title to replace that which was lost"],
+          correct: "B. To bring to court an action involving a question of ownership or rights to a property"
       },
       {
-        question: "Property held by the owner as inventory or stock in trade in connection with trade business or source of income is referred to as:",
-        options: ["A. Capital Asset", "B. Ordinary Asset", "C. Fixed Asset", "D. None of the above"],
-        correct: "B. Ordinary Asset",
+          question: "The following considered unethical for the real estate broker to do when selling a house and lot",
+          options: ["A. To have the house cleaned before bringing the buyer", "B. To tell the buyer there are many buyers interested although there are only few interested buyers", "C. To open the windows of the house before bringing the buyer", "D. To pass through a better road instead of the road with squatters"],
+          correct: "B. To tell the buyer there are many buyers interested although there are only few interested buyers"
       },
       {
-        question: "A licensed real estate broker, buying and selling many properties for himself, may have his profits taxed as:",
-        options: ["A. Long-term capital gains", "B. Short-term capital gains", "C. Deferred capital Gains", "D. Ordinary Income"],
-        correct: "D. Ordinary Income",
+          question: "The wife may question the sale of the house and lot if it is required that her consent be obtained within a period of how many years form the date of the contract",
+          options: ["A. 10 years", "B. 5 years", "C. 2 years", "D. 1 year"],
+          correct: "A. 10 years"
       },
       {
-        question: "Which of the following is not included in the primary purpose of the establishment of RA 9646?",
-        options: ["A. To enhance collection of taxes by government in the real estate transaction", "B. To protect the general public of any illegal act of practitioners in the conduct of real estate business", "C. To limit practitioners in the real estate industry", "D. To enhance qualification of the Real Estate Service Practitioner"],
-        correct: "C. To limit practitioners in the real estate industry",
+          question: "The top three major Philippine lakes in order from largest, 2nd largest, 3rd largest are:",
+          options: ["A. Laguna Lake, Lanao Lake, and Taal Lake", "B. Laguna Lake, Lanao Lake, and Lake Mainit", "C. Laguna Lake, Lanao Lake, and Lake Lumao", "D. Lanao Lake, Laguna Lake, and Taal Lake"],
+          correct: "D. Lanao Lake, Laguna Lake, and Taal Lake"
+      },
+      {
+          question: "Land acquired through public auction due to nonpayment of the delinquent real estate taxes is a grant referred to as",
+          options: ["A. Private grant", "B. Public grant", "C. Involuntary grant", "D. Foreclosure grant"],
+          correct: "C. Involuntary grant"
+      },
+      {
+          question: "The exemption on the payment of the capital gains tax on the sale of a principal residence by the individual seller who will utilize the proceeds to purchase a new residence maybe availed only:",
+          options: ["A. Thrice every 20 years", "B. Twice every 10 years", "C. Once every 10 years", "D. Once every 5 years"],
+          correct: "C. Once every 10 years"
+      },
+      {
+          question: "Land is unique because",
+          options: ["A. No two parcels have the same owners.", "B. No two parcels have the same features", "C. No two parcels have the same soil composition", "D. No two parcels can occupy the same space on the face of the earth"],
+          correct: "D. No two parcels can occupy the same space on the face of the earth"
+      },
+      {
+          question: "An absolute, unrestricted estate in perpetuity to property is called –",
+          options: ["A. Estate for years", "B. Freehold", "C. Tenancy", "D. None of the above"],
+          correct: "B. Freehold"
+      },
+      {
+          question: "The Philippine's titling system is based on the Torren's system developed by a person from -",
+          options: ["A. Spanish colonial government", "B. Australia", "C. American government", "D. Commonwealth government"],
+          correct: "B. Australia"
+      },
+      {
+          question: "In his dry seal, letterhead, advertisement or announcements, the real estate broker must indicate his:",
+          options: ["A. license number", "B. contact number", "C. office address", "D. personal circumstances"],
+          correct: "A. license number"
+      },
+      {
+          question: "Anti-Red tape act of 2007",
+          options: ["A. RA 9194", "B. RA 9225", "C. RA 9485", "D. RA 9700"],
+          correct: "C. RA 9485"
+      },
+      {
+          question: "Under RA 7160, the share of a municipality in Metro Manila in the proceeds of real estate taxes is:",
+          options: ["A. 40%", "B. 30%", "C. 25%", "D. 35%"],
+          correct: "D. 35%"
+      },
+      {
+          question: "The law that governs the property relations of two people who plan to get married in 2015 is referred as",
+          options: ["A. The New Civil Code", "B. Family Code of the Philippines", "C. Property Code of the Philippines", "D. The Family Law of the Philippines"],
+          correct: "B. Family Code of the Philippines"
+      },
+      {
+          question: "A 2-story house and lot was being rented out by the owner and listed it through several brokers. A broker who also obtained the listing can place his for rent sign if authorized by the owner and only if",
+          options: ["A. It does not exceed two signs for rent", "B. It is placed not less than 2 meters aways from the other sign", "C. His sign is not more than 2x2 meters in size", "D. There is no sign placed on the property"],
+          correct: "D. There is no sign placed on the property"
+      },
+      {
+          question: "When Real Estate Service practitioners resigned from the company how many days where the company should inform the PRC-PRBRES?",
+          options: ["A. 15 working days", "B. 15 days", "C. 30 days", "D. 20 working days"],
+          correct: "B. 15 days"
+      },
+      {
+          question: "For one to have a property relation of complete separation of property, the future spouses must execute this document before marriage",
+          options: ["A. Married Contract", "B. Prenuptial agreement", "C. Judicial separation of property", "D. Affidavit of waiver"],
+          correct: "B. Prenuptial agreement"
+      },
+      {
+          question: "Unpaid real property tax is subject to 2% per month interest, up to a maximum period of",
+          options: ["A. 12 months", "B. 24 months", "C. 36 months", "D. until paid"],
+          correct: "C. 36 months"
+      },
+      {
+          question: "An annotation on the title which serves as a notice that the property is being held in reserve for whatever judgement may be rendered against the owner.",
+          options: ["A. Writ of Preliminary Attachment", "B. Deficiency Judgement", "C. Adverse Claim", "D. Notice of Lis Pendens"],
+          correct: "A. Writ of Preliminary Attachment"
+      },
+      {
+          question: "Under RA 7160, the share of a barangay in a province in the proceeds of real estate taxes is:",
+          options: ["A. 20%", "B. 30%", "C. 25%", "D. 35%"],
+          correct: "C. 25%"
+      },
+      {
+          question: "Former natural-born Filipinos can also acquire land for business purposes, up to 5,000 sqm in urban areas or 3 hectares in rural areas, under -",
+          options: ["A. R.A. 7042", "B. B.P. 185", "C. R.A. 10023", "D. R.A. 9225"],
+          correct: "A. R.A. 7042"
+      },
+      {
+          question: "This principle states that the citizenship of a person shall be based on the location of birth of person is called",
+          options: ["A. Jus sanguinis", "B. Jus soli", "C. Jus locandi", "D. Dual Citizenship"],
+          correct: "B. Jus soli"
       },
     ],
   },
@@ -447,452 +512,1510 @@ export const quizParts: QuizPart[] = [
     title: "Part 2 - Special and Technical Knowledge",
     questions: [
       {
-        question: "What is the maximum length for a row house construction?",
-        options: ["A. 100 meters", "B. 120 meters", "C. 150 meters", "D. 200 meters"],
-        correct: "A. 100 meters",
+        question: "A contract between the Buyer and the Broker which stipulates that if the Broker succeeds in procuring the property and negotiates the purchases, a fee will be paid by the Buyer.",
+        options: ["A. Purchase Agency", "B. Lease with Option to Buy", "C. Real estate Mortgage", "D. Contract of Lease"],
+        correct: "A. Purchase Agency"
       },
       {
-        question:
-          "Under PD 957, in general, the minimum distance between two buildings in which the taller building has not more than two (2) storeys shall be:",
-        options: ["A. 4 meters", "B. 3 meters", "C. 5 meters", "D. 6 meters"],
-        correct: "A. 4 meters",
+        question: "When is the date of signing of the Real Estate Service Act",
+        options: ["A. 29 June 2009", "B. 29 July 2009", "C. 29 July 2010", "D. 29 July 2011"],
+        correct: "A. 29 June 2009"
       },
       {
-        question:
-          "A partnership agreement in a land subdivision development project wherein the landowner contributes his raw land as his investment in the project while the developer undertakes and finances the development",
-        options: [
-          "A. Joint Venture",
-          "B. Build to Own Agreement",
-          "C. Property Development Alliance",
-          "D. Building Partners",
-        ],
-        correct: "A. Joint Venture",
+        question: "The DST for the Donor's tax shall be paid:",
+        options: ["A. After 20th day of the following month from notarization of deed", "B. After 10th day of the following month from notarization of deed", "C. After 5th day of the following month from notarization of deed", "D. None of the above"],
+        correct: "C. After 5th day of the following month from notarization of deed"
       },
       {
-        question:
-          "Which is the minimum lot frontage in meters for a single detached irregular lot in an economic housing project?",
-        options: ["A. 5", "B. 4", "C. 3.5", "D. 3"],
-        correct: "B. 4",
+        question: "The maximum withholding tax on the commission of a real estate broker that may be deducted is:",
+        options: ["A. 6%", "B. 15%", "C. 10%", "D. 32%"],
+        correct: "B. 15%"
       },
       {
-        question: "Which of the following would be considered an offer in a real estate transaction?",
-        options: ["A. Condition", "B. Covenant", "C. Performance", "D. Tender"],
-        correct: "D. Tender",
+        question: "The assessment of level of the improvements of a property owned by Mrs. Lerna will be based on the classification and",
+        options: ["A. Fair market value of the improvement of the assessor", "B. Assesses value of the improvement of the assessor", "C. Zonal value of the improvements", "D. Declared value by the owner x tax rate"],
+        correct: "A. Fair market value of the improvement of the assessor"
       },
       {
-        question: "The minimum lot frontage for row house of a subdivision project for socialized housing project under BP 220?",
-        options: ["A. 3 meters", "B. 3.5 meters", "C. 4 meters", "D. 6 meters"],
-        correct: "B. 3.5 meters",
+        question: "The Local Board of Assessment Appeals in the city shall be headed by a Chairman who shall be",
+        options: ["A. Provincial Assessor", "B. Registrar of Deeds of the City", "C. City Assessor", "D. City Mayor"],
+        correct: "B. Registrar of Deeds of the City"
       },
       {
-        question: "A map that shows the location of the property, indicating known landmarks such as church, bridge, school, and routes leading to the property.",
-        options: ["A. Location map", "B. Lot plan", "C. Resurvey map", "D. Subdivision map"],
-        correct: "A. Location map",
+        question: "Represent agricultural produce in the logo of PRBRES?",
+        options: ["A. Land and trees", "B. Land and fruits", "C. Trees only", "D. Trees and the fruits"],
+        correct: "D. Trees and the fruits"
       },
       {
-        question: "A professional person who determines the shape, contour and measure of land:",
-        options: ["A. Geologist", "B. Metallurgical Engineer", "C. Real Estate Consultant", "D. Geodetic Engineer"],
-        correct: "D. Geodetic Engineer",
+        question: "A special levy may be imposed for the lands specially benefited by the public works projects or improvements funded by the local government unit provided, the special levy shall not exceed",
+        options: ["A. 5% of the assessed value", "B. 60% of the actual cost of such projects", "C. 50% of the actual cost of projects and improvements", "D. 2% of the assessed value"],
+        correct: "B. 60% of the actual cost of such projects"
       },
       {
-        question: "The following are the basic needs in any Human Settlement areas as specified in BP 220, except:",
-        options: ["A. Power", "B. Water", "C. Parks & Playground", "D. Telephone & Internet Access"],
-        correct: "D. Telephone & Internet Access",
+        question: "After the RESA (2019), the code of ethics for Real Estate Practitioners is referred to as:",
+        options: ["A. Code of Ethics for Real Estate Service Practitioners", "B. Code of Responsibilities for Real Estate Service Practitioners", "C. Code of Ethics and Responsibilities for Real Estate service Practitioners", "D. National Code of Ethics and Responsibilities for Real Estate Service Practitioners"],
+        correct: "C. Code of Ethics and Responsibilities for Real Estate service Practitioners"
       },
       {
-        question: "A parcel of land bounded on the sides by streets or alleys or pathways or other natural or manmade features, and occupied by or intended for buildings",
-        options: ["A. Cluster", "B. Block", "C. Open Space", "D. Amenities"],
-        correct: "B. Block",
+        question: "The share of an illegitimate child in their father's estate is equivalent to the share of the legitime of the legitimate child in the share of:",
+        options: ["a) Equal share", "b) One-third share", "c) One-half share", "d) No share"],
+        correct: "c) One-half share"
       },
       {
-        question: "A law that provides protection to buyers of subdivision and condominium projects",
-        options: ["A. BP 220", "B. PD 1216", "C. PD 957", "D. PD 1096"],
-        correct: "C. PD 957",
+        question: "Patrimonial properties of the State are –",
+        options: ["A. Properties considered as public dominion", "B. Properties owned by the State or any of its instrumentalities in a private capacity", "C. Properties expropriated by the State from the private sector to be used for roads", "D. Properties belonging to individuals working in the government"],
+        correct: "B. Properties owned by the State or any of its instrumentalities in a private capacity"
       },
       {
-        question: "In a metric and English system, 1 meter is equal to_______ ft.",
-        options: ["A. 3.28083", "B. 12", "C. 1,000", "D. 1"],
-        correct: "A. 3.28083",
+        question: "The following does not have a BIR zonal value:",
+        options: ["A. Condominium unit", "B. Agricultural land", "C. Condominium parking space", "D. Building improvements"],
+        correct: "D. Building improvements"
       },
       {
-        question: "Under PD 957, Development Permits shall be valid for a period of?",
-        options: ["A. 6 months", "B. 1 year", "C. 2 years", "D. 3 years"],
-        correct: "D. 3 years",
+        question: "It is a list of all realty property located within the territorial of the local government unit concerned, prepared and maintained by the Provincial/City/Municipal Assessor.",
+        options: ["A. Registry of Deeds", "B. Registry of the Property", "C. Provincial Registry", "D. Municipal Registry"],
+        correct: "A. Registry of Deeds"
       },
       {
-        question: "The overall structural mass and open space relationship in a developed property",
-        options: ["A. Land Use Intensity", "B. Land Value Index", "C. Best Use Index", "D. None of the above"],
-        correct: "A. Land Use Intensity",
+        question: "In mixed used condominium project, the master deed may be amended by a simple majority vote of unit owners. Majority is based on:",
+        options: ["A. number of condominium units", "B. total area of ownership", "C. floor area of ownership", "D. only one unit to be considered in voting"],
+        correct: "C. floor area of ownership"
       },
       {
-        question: "What is the maximum length of a subdivision block under BP 220?",
-        options: ["A. 250 meters", "B. 300 meters", "C. 400 meters", "D. 500 meters"],
-        correct: "C. 400 meters",
+        question: "Mr. Santos owns the following landholdings: a. Five (5) hectares devoted to coconuts with no tenant; b. 500 sq. m. in Juna Subdivision; c. 2 hectares granted by DAR to be converted to raising of poultry; and d. Five (5) hectares actually, directly and exclusively used as fishponds. How many hectares, if any, can be covered under CARP?",
+        options: ["A. None", "B. 5 hectares", "C. 7 hectares", "D. 12 hectares"],
+        correct: "A. None"
       },
       {
-        question: "An act providing for the administration and temporary leasing and sale of certain haciendas and parcels of land, commonly known as friar lands, for the purchase of which the government of the Philippine islands has recently contracted, pursuant to the provisions of sections sixty-three, sixty-four and sixty-five of an act of the congress of the United States",
-        options: ["A. RA 1120", "B. Commonwealth Act 32", "C. Property Registration Decree", "D. Act 1120"],
-        correct: "D. Act 1120",
+        question: "A kind of sale whereby payment of the contract is made at some future date and that the ownership of the property shall be retained by the owner until full payment is made.",
+        options: ["A. Deed of Absolute Sale", "B. Contract of sale", "C. Down payment", "D. Contract to Sell"],
+        correct: "D. Contract to Sell"
       },
       {
-        question: "When is the appropriate time to start marketing and selling subdivided lots?",
-        options: ["A. The subdivision has already have a Development Permit", "B. The License to Sell has already been issued by the DHSUD", "C. The main road and entrance gate of the subdivision is already completed", "D. The developer has already conducted a Grand Open House"],
-        correct: "B. The License to Sell has already been issued by the DHSUD",
+        question: "If a broker is a member of an organization, the real estate broker should not engage in the following",
+        options: ["A. Be an officer and serve if elected", "B. Electioneering during the annual elections", "C. Support the programs or the organization", "D. Pay on time the dues of the organization"],
+        correct: "B. Electioneering during the annual elections"
       },
       {
-        question: "What is the minimum size of a secondary road as provided for in BP 220?",
-        options: ["A. 5 meters", "B. 6 meters", "C. 6.5 meters", "D. 8 meters"],
-        correct: "C. 6.5 meters",
+        question: "The tax imposed on profit presumed have been realized on the sale or disposition of lands and/or buildings.",
+        options: ["A. Estate Tax", "B. Capital Gains Tax", "C. Inheritance Tax", "D. Realty Tax"],
+        correct: "B. Capital Gains Tax"
       },
       {
-        question: "When paying Capital Gains tax at the accredited bank of the Revenue District Officer having jurisdiction over the place where the property being transferred is located, the following are the required documents, EXCEPT.",
-        options: ["A. Withholding Tax Remittance Return (from 1606)", "B. Capital Gains Tax return (form 1706)", "C. Documentary Stamp Tax Declaration/Return (form 2000)", "D. Cash or Manager's check"],
-        correct: "A. Withholding Tax Remittance Return (from 1606)",
+        question: "A natural born American citizen from Hawaii may own a house in the Philippines which may be possible under this condition",
+        options: ["A. He leases the land builds a house", "B. He marries a Filipina", "C. He becomes a dual citizen", "D. He avails of the special resident visa"],
+        correct: "A. He leases the land builds a house"
       },
       {
-        question: "What is the minimum major road which for socialized housing project under BP 220?",
-        options: ["A. 8 meters", "B. 10 meters", "C. 12 meters", "D. 15 meters"],
-        correct: "A. 8 meters",
+        question: "Under the Civil Code, rental income from a building is considered a -",
+        options: ["A. Civil fruit", "B. Industrial fruit", "C. Natural fruit of property", "D. Commercial revenue"],
+        correct: "A. Civil fruit"
       },
       {
-        question: "The minimum floor area requirement for single-family dwelling for socialized housing project under BP 220?",
-        options: ["A. 36 square meters", "B. 30 square meters", "C. 24 square meters", "D. 18 square meters"],
-        correct: "D. 18 square meters",
+        question: "Ownership of real estate in the Philippines is foremost and primarily governed by:",
+        options: ["A. 1987 Philippine Constitution", "B. Special laws enacted by Congress", "C. New Civil Code provisions of Property Ownership", "D. 1935 Philippine Constitution"],
+        correct: "A. 1987 Philippine Constitution"
       },
       {
-        question: "Under BP 220 IRR, the minimum floor line to ceiling:",
-        options: ["A. 2 meters", "B. 1.5 meters", "C. 3 meters", "D. 3.5 meters"],
-        correct: "A. 2 meters",
+        question: "Under R.A. No. 3844, the following are causes for terminating leasehold relation, EXCEPT:",
+        options: ["A. Voluntary surrender", "B. Abandonment", "C. Death or permanent incapacity of the agricultural lessee (tenant)", "D. Absence of an heir to succeed the agricultural lessee"],
+        correct: "C. Death or permanent incapacity of the agricultural lessee (tenant)"
       },
       {
-        question: "On a 100,000 square meter gross area of socialized housing project and a density of 140 dwelling units per hectare, how many square meters should be allocated to parks and playgrounds?",
-        options: ["A. 3500", "B. 2000", "C. 1000", "D. 5000"],
-        correct: "A. 3500",
+        question: "Refers to the sale where the seller has the right to repurchase the property being sold.",
+        options: ["A. Pacto de Retro Sale", "B. Deed of Sale With Mortgage", "C. Dacion En Pago", "D. Sale with Assumption of Mortgage"],
+        correct: "A. Pacto de Retro Sale"
       },
       {
-        question: "Refers to housing projects which may either be a subdivision or a condominium intended for homeless low-income family beneficiaries",
-        options: ["A. Socialized Housing", "B. Low-cost Housing", "C. Mass Housing", "D. Affordable Housing"],
-        correct: "A. Socialized Housing",
+        question: "Agricultural lands, more than one (1) hectare in area, suitable for cultivation dairying, inland fishery and other agricultural uses may be subject to idle land tax if it remains uncultivated or unimprovement by the owner or owners to the extent of",
+        options: ["A. 100%", "B. 1/4 of the land", "C. 1/2 of the land", "D. 60% of the land"],
+        correct: "C. 1/2 of the land"
       },
       {
-        question: "A public way intended for pedestrian and which cuts across a block to provide access to adjacent street or property with maximum length of 100 meters of connecting to roads and 50 meters if terminating in a dead end",
-        options: ["A. Road", "B. Alley", "C. Path Walk", "D. Easement"],
-        correct: "C. Path Walk",
+        question: "In order for the local government to impose and implement the tax due for real estate taxes for the city it must be through",
+        options: ["A. Executive order of the Mayor", "B. Approved local tax ordinance", "C. Memorandum of the city council", "D. Resolution of the sangguniang bayan"],
+        correct: "B. Approved local tax ordinance"
       },
       {
-        question: "What is the length of a subdivision block that requires mandatory provision of a two meter alley approximately at its mid-length?",
-        options: ["A. A block exceeding 200 meters", "B. A block exceeding 250 meters", "C. A block exceeding 300 meters", "D. A block exceeding 400 meters"],
-        correct: "B. A block exceeding 250 meters",
+        question: "For real estate taxes, the Local Government Code provides the same accrues",
+        options: ["A. Every end of the quarter for the year", "B. On 1st day of January", "C. Upon notice of assessment", "D. Every beginning of the quarter for the year"],
+        correct: "B. On 1st day of January"
       },
       {
-        question: "A dwelling, or portion thereof, providing complete living facilities for one family, including provisions for living, sleeping, cooking, eating, bathing and toilet facilities and laundry facilities",
-        options: ["A. Dwelling Unit", "B. Dormitory", "C. Living Unit", "D. All of the above"],
-        correct: "C. Living Unit",
+        question: "For violation of the code of ethics, the following penalty may be imposed by the broker's professional real estate organization",
+        options: ["A. Removal of license", "B. Suspension of license", "C. Removal from roster of registered real estate brokers", "D. Expulsion from the organization"],
+        correct: "D. Expulsion from the organization"
       },
       {
-        question: "Which of the following are requirements for registration of subdivision and condominium projects?",
-        options: ["A. I, IV, V", "B. II, III, IV", "C. I, II, III, V", "D. I, II, III, IV, V"],
-        correct: "D. I, II, III, IV, V",
+        question: "Which of the following is not exempted from real estate taxes:",
+        options: ["A. Electric cooperative", "B. Multi-purpose cooperative registered under RA 6938", "C. public cemetery", "D. private non-sectarian school"],
+        correct: "A. Electric cooperative"
       },
       {
-        question: "The Philippine Tourism Act:",
-        options: ["A. RA 9593", "B. RA 8749", "C. PD 1076", "D. RA 9003"],
-        correct: "A. RA 9593",
+        question: "What is the function of HSAC",
+        options: ["A. adjudicatory function", "B. regulatory function", "C. central housing authority function", "D. main policy making function"],
+        correct: "A. adjudicatory function"
       },
       {
-        question: "Condominium unit owners with lien ownership components are mandated to form a:",
-        options: ["A. Cooperative", "B. Charitable Organization", "C. Condominium Corporation", "D. Home owners association"],
-        correct: "C. Condominium Corporation",
+        question: "Mr. Parco failed to pay his real estate tax due on the time and he will be subject to a penalty equivalent to",
+        options: ["A. 10% Per month", "B. 2% per month", "C. 5% per month", "D. 20% per month"],
+        correct: "B. 2% per month"
       },
       {
-        question: "It is the term used to determine the value of the unit or the interest in absolute of a condominium unit owner when the building is demolished.",
-        options: ["A. Percentage Holding Value", "B. Break Out Value", "C. Market Value", "D. Absolute Unit Value"],
-        correct: "B. Break Out Value",
+        question: "The share of an illegitimate child in their father's estate is equivalent to the state of the legitime of the legitime child in the share of",
+        options: ["A. Equal Share", "B. On-Third share", "C. One-Half share", "D. No share"],
+        correct: "C. One-Half share"
       },
       {
-        question: "The entire parcel of real property divided or undivided, including all structures thereon",
-        options: ["A. Condominium Unit", "B. Condominium Project", "C. Common Areas", "D. Condominium"],
-        correct: "B. Condominium Project",
+        question: "In case a person owns a piece of land, it can be used for legal purposes, and the government may exercise is power referred as",
+        options: ["A. Government restriction", "B. Land use plan", "C. Police power", "D. Building permit"],
+        correct: "C. Police power"
       },
       {
-        question: "What is the operative act for a condominium corporation?",
-        options: ["A. Deed of Restrictions", "B. Certificate of Registration", "C. Articles of Incorporation", "D. Master Deed"],
-        correct: "D. Master Deed",
+        question: "A form of property ownership document issued by the Department of Agrarian Reform",
+        options: ["A. Homestead patent", "B. Transfer Certificate of Title", "C. Certificate of Land Ownership", "D. Warranty Deed"],
+        correct: "C. Certificate of Land Ownership"
       },
       {
-        question: "When one sells his condominium unit what else does he loose?",
-        options: ["A. His shares in the condominium corporation", "B. His share in the common area", "C. His title to his unit", "D. All of the Above"],
-        correct: "D. All of the Above",
+        question: "By this contract, the creditor acquires the right to receive the fruits of an immovable of the debtor, with the obligation to apply them to the payment of interest, if any, and then to the principal of the debt",
+        options: ["A. Mortgage", "B. Hypothecation", "C. Pledge", "D. Antichresis"],
+        correct: "D. Antichresis"
       },
       {
-        question: "The Real Estate Investment Trust Law has not been positively implemented and accepted due to ______.",
-        options: ["A. Stringent tax and public ownership requirement", "B. High cost of capital and 12 % VAT", "C. Misunderstanding of what real estate investment trust is", "D. Department of Finance stringent rules and regulations"],
-        correct: "A. Stringent tax and public ownership requirement",
+        question: "The right to possess, use, enjoy the fruits, dispose, recover, and exclude others from property is generally called -",
+        options: ["A. Civil rights", "B. Bundle of rights", "C. Constitutional rights", "D. None of the above"],
+        correct: "B. Bundle of rights"
       },
       {
-        question: "This is a form of ownership in which an owner has an interest in a certain unit defined such as the space between the interior walls, the ceiling, and the floor of that unit and the owner also owns pro-rata share of the common areas within the development:",
-        options: ["A. Condominium", "B. Fee Simple", "C. Cooperative", "D. Time-share"],
-        correct: "A. Condominium",
+        question: "The real estate tax on the house and lot owned by Ms. Millie may be paid without penalty interest in",
+        options: ["A. 2 semi-annual payments", "B. 4 payments", "C. 4 equal quarterly payments", "D. Monthly payments"],
+        correct: "C. 4 equal quarterly payments"
       },
       {
-        question: "In case of ____________ of a condominium corporation for any of the causes provided by law, the common areas owned or held by the corporation shall, by way of liquidation be transferred pro-indiviso",
-        options: ["A. Involuntary Dissolution", "B. Voluntary Dissolution", "C. Perpetual Dissolution", "D. Temporary Dissolution"],
-        correct: "A. Involuntary Dissolution",
+        question: "For a seller to be considered as habitually engaged in real estate business, he must have consummated at least taxable real estate transactions during the preceding year:",
+        options: ["A. Five", "B. Six", "C. Eight", "D. Ten"],
+        correct: "B. Six"
       },
       {
-        question: "Under Rule 74, Section 24, the property of the deceased shall be subject to the rights of three of the following four. Who among the four does not have a right to the subject property?",
-        options: ["A. Heirs", "B. Any person who may have been unduly deprived of his participation in the estate of the deceased", "C. The parents of the deceased", "D. Creditors"],
-        correct: "C. The parents of the deceased",
+        question: "An item that was once personal property that has become part of the real estate is referred to as",
+        options: ["A. Real property", "B. Real estate", "C. Fixture", "D. Equipment"],
+        correct: "C. Fixture"
       },
       {
-        question: "It is the entire project except all units separately granted or held or reserved.",
-        options: ["A. Condominium", "B. Unit", "C. Project", "D. Common Area"],
-        correct: "D. Common Area",
+        question: "A real assessment of Real property may be made due to the following grounds, except:",
+        options: ["A. Any great and sudden inflation or deflation of real property values", "B. Gross illegality of the assessment", "C. Change of Owner of the property", "D. A partial or total destruction of Real property"],
+        correct: "C. Change of Owner of the property"
       },
       {
-        question: "A document which provides the guidelines, rules and regulations regarding the rights of condominium unit owners, use, occupation, ownership and disposition of units – all of which constitutes a lien upon the project and each unit",
-        options: ["A. Tax Declaration", "B. Declaration of Restrictions", "C. House Rules and Regulations", "D. Black Book"],
-        correct: "B. Declaration of Restrictions",
+        question: "The creditable withholding tax rate for a house and lot sold for P1,800,000 by developer who is habitually engaged is:",
+        options: ["A. 0%", "B. 1.5%", "C. 3%", "D. 5%"],
+        correct: "C. 3%"
       },
       {
-        question: "Title to condominium units is vested in:",
-        options: ["A. A corporation owning the building", "B. Association of the building", "C. Owner of Condominium unit", "D. All of the above"],
-        correct: "C. Owner of Condominium unit",
+        question: "The government may disposes or alienate lands of the public domain provided the classification is:",
+        options: ["A. Residential", "B. Forest Land", "C. Commercial", "D. Agricultural"],
+        correct: "D. Agricultural"
       },
       {
-        question: "Under the Philippine Qualification Framework Act, which refers to a formal certification that a person has successfully achieved specific learning outcomes relevant to the identified academic, industry or community requirements?",
-        options: ["A. Attestation", "B. Qualification", "C. Confirmation", "D. Testament"],
-        correct: "B. Qualification",
+        question: "Among the listed land classifications, which is devoted principally for activities as capital investment?",
+        options: ["A. agricultural", "B. commercial", "C. Residential", "D. Industrial"],
+        correct: "D. Industrial"
       },
       {
-        question: "The part of condominium intended for any type of independent use or ownership.",
-        options: ["A. Condominium", "B. Unit", "C. Project", "D. None of the above"],
-        correct: "B. Unit",
+        question: "An illegitimate minor child may use the surname of the father who is married to another, provided",
+        options: ["A. The mother agrees", "B. The father executes an affidavit of acknowledgement", "C. The child is not over 7 years of age", "D. The father and mother eventually marries"],
+        correct: "B. The father executes an affidavit of acknowledgement"
       },
       {
-        question: "A cemetery, memorial park, or any place duly authorized by law or permanent disposal of the dead.",
-        options: ["A. Columbarium", "B. Apartment", "C. Burial Grounds", "D. Garden Area"],
-        correct: "C. Burial Grounds",
+        question: "A charge against a property in which the property is security for payment of a debt is called a",
+        options: ["A. Lien", "B. Mortgage", "C. escheat", "D. restriction"],
+        correct: "B. Mortgage"
       },
       {
-        question: "A privately-owned cemetery with well kept landscaped lawns and wide roadways and footpaths separating the areas assigned for ground interments, tombs, mausoleums and columbaria",
-        options: ["A. Memorial Park", "B. Public Cemetery", "C. Burial Grounds", "D. Chaplan"],
-        correct: "A. Memorial Park",
+        question: "It is one whereby the owner leases his property to the lessee buyer with the privilege to exercise the right to buy thereof at a specific date at an agreed price and the agreed rental may be considered as part at the purchase price when the lessee-buyer exercise the option.",
+        options: ["A. Purchase Agency", "B. Lease with Option to Buy", "C. Real estate Mortgage", "D. Contract of Lease"],
+        correct: "B. Lease with Option to Buy"
       },
       {
-        question: "Which of the following parts of a condominium project might not be a part of the common areas:",
-        options: ["A. Grand Lobby", "B. Stairs and Corridors", "C. Basement Parking Stalls", "D. Elevator Equipment"],
-        correct: "C. Basement Parking Stalls",
+        question: "Under the Assessment Calendar, the submission of the Schedule of Fair Market Values to the Sanggunian concerned & conduct of public hearings should be done not later than October 31 of the:",
+        options: ["A. first Year", "B. second year", "C. third year", "D. fourth year"],
+        correct: "A. first Year"
       },
       {
-        question: "What mandatory provision is required for duplex and single-attached unit?",
-        options: ["A. Partition Wall", "B. Garage", "C. Firewall", "D. Sidewalk"],
-        correct: "C. Firewall",
+        question: "It is a voluntary limitation on one's right of ownership to land",
+        options: ["A. Deed of Restriction", "B. Building code", "C. Zoning", "D. Land Use Plan"],
+        correct: "A. Deed of Restriction"
       },
       {
-        question: "What is the minimum lot area in square feet for a single detached type of housing in a socialized housing project?",
-        options: ["A. 591.01", "B. 775.00", "C. 688.89", "D. 516.67"],
-        correct: "C. 688.89",
+        question: "Disadvantages of REITS, EXCEPT",
+        options: ["A. Real estate is cyclical and goes with the income", "B. Subject to tax hikes on properties imposed locally and nationally", "C. Slower growth compared to other equities", "D. Real estate beats the effect of inflation"],
+        correct: "D. Real estate beats the effect of inflation"
       },
       {
-        question: "A non-stock, non-profit corporation consisting of condominium unit owners which is the management body of the condominium project it use and owned, the life of which shall be co-terminus with the existence of the condominium project.",
-        options: ["A. Condominium", "B. Condominium Unit", "C. Condominium Project", "D. Condominium Corporation"],
-        correct: "D. Condominium Corporation",
+        question: "Refers to a notice that the property has a pending litigation.",
+        options: ["A. Lis Pendens", "B. Adverse Claim", "C. Court Case", "D. Petition to Quiet Title"],
+        correct: "A. Lis Pendens"
       },
       {
-        question: "It contains the description of the land, description of the condominium unit, name and personal circumstances of the condominium owner",
-        options: ["A. Transfer Certificate of Title", "B. Original Certificate of Title", "C. Condominium Certificate of Title", "D. Carbonized Certificate of Title"],
-        correct: "C. Condominium Certificate of Title",
+        question: "Under the local government code, the owner must file a sworn declaration of value of the Property once every",
+        options: ["A. 1 Year", "B. 2 Years", "C. 3 Years", "D. Upon general revision"],
+        correct: "C. 3 Years"
       },
       {
-        question: "This refers to conveyance of real estate in favor of a creditor in payment of the transferor's obligation or debt.",
-        options: ["A. Dacion en Pago", "B. Tacita Reconducta", "C. Pacto de Retro", "D. Antichresis"],
-        correct: "A. Dacion en Pago",
+        question: "In the sale of principal residence and exemption thereof, the following shall be exempted to the seller:",
+        options: ["A. CGT", "B. CGT and DST", "C. DST", "D. VAT"],
+        correct: "A. CGT"
       },
       {
-        question: "It is the right of original owner to reclaim property sold through judicial foreclosure proceedings by payment of debt, interests and cost.",
-        options: ["A. Right of Redemption", "B. Riparian Rights", "C. Equity of Redemption", "D. Right to first refusal"],
-        correct: "C. Equity of Redemption",
+        question: "The following is not considered as an involuntary grant",
+        options: ["A. Sales through foreclosure sale", "B. Sales through execution sale", "C. Sales of condo unit to a foreigner", "D. Sales through auction sale due to unpaid real estate taxes"],
+        correct: "C. Sales of condo unit to a foreigner"
       },
       {
-        question: "The following are reasons for getting one's inheritance, except:",
-        options: ["A. To distribute to the heirs as provided by law", "B. To fulfill the wishes of the decedent", "C. Proper utilization of the estate given to each heir", "D. To unjustly enrich one's net worth"],
-        correct: "D. To unjustly enrich one's net worth",
+        question: "REITs are like",
+        options: ["A. Insurance", "B. Equities", "C. Bonds", "D. Mutual Funds"],
+        correct: "D. Mutual Funds"
       },
       {
-        question: "A term that refers to reservation or right to buy which is separate from purchase price:",
-        options: ["A. Option", "B. Earnest", "C. Partial payment", "D. Escrow"],
-        correct: "A. Option",
+        question: "An Act that provides the mechanism for land use inventory, acquisition, disposition and provision of socialized housing for the underprivileged and homeless.",
+        options: ["A. RA 6559", "B. RA 7160", "C. RA 7279", "D. None of the above"],
+        correct: "C. RA 7279"
       },
       {
-        question: "A contract of sale involving real property must be in writing for _____________ purposes and not for validity.",
-        options: ["A. Enforceability", "B. Defeasibility", "C. Dexterity", "D. Practicality"],
-        correct: "A. Enforceability",
+        question: "Voluntary restrictions on property ownership includes the following, except -",
+        options: ["A. Lease contracts", "B. Easements", "C. Taxes", "D. Usufruct"],
+        correct: "C. Taxes"
       },
       {
-        question: "A sublease is a __________________.",
-        options: ["A. Lease made by a lessor", "B. Lease made by a lessee and a third party", "C. Lease for basement", "D. Condition of property"],
-        correct: "B. Lease made by a lessee and a third party",
+        question: "It is the right of a person to the fruits of a property even if the property is not owned by the said person",
+        options: ["A. Usufruct", "B. Tenancy Arrangement", "C. Harvest agreement", "D. Lease agreement"],
+        correct: "A. Usufruct"
       },
       {
-        question: "Escalation clauses in a lease provide for:",
-        options: ["A. Term extensions", "B. Elevator and escalator maintenance", "C. Increased rentals because of higher operating expenses", "D. Purchase options"],
-        correct: "C. Increased rentals because of higher operating expenses",
+        question: "The following does not have a BIR zonal value",
+        options: ["A. Condominium Unit", "B. Agricultural land", "C. Condominium parking space", "D. Building improvements"],
+        correct: "D. Building improvements"
       },
       {
-        question: "Up to how many years can land be leased to aliens under P.D. 471?",
-        options: ["A. Limited to 10 years only, renewable for another 10 years", "B. Limited to 15 years only, renewable for another 15 years", "C. Limited to 20 years only, renewable for another 10 years", "D. Limited to 25 years only, renewable for another 25 years"],
-        correct: "D. Limited to 25 years only, renewable for another 25 years",
+        question: "The creditable withholding tax for the sale of a lot by a developer is also referred to as",
+        options: ["A. Capital Gain Tax", "B. Final Tax", "C. Prepaid income Tax", "D. Advance withholding Tax"],
+        correct: "D. Advance withholding Tax"
       },
       {
-        question: "___________ is gratuitous transfer of rights and property that shall take effect during the lifetime of the donor.",
-        options: ["A. Donation Mortis Causa", "B. Donation Gratificacion", "C. Donation Inter Vivos", "D. None of the Above"],
-        correct: "C. Donation Inter Vivos",
+        question: "A Filipina got married to a foreigner on August 3, 1998. In such case the Filipina may still buy land in the Philippines, provided",
+        options: ["A. She becomes a dual citizen", "B. She has not renounced her citizenship", "C. She buys land under BP 185", "D. She buys a maximum of 1,000 sqms if residential land only"],
+        correct: "B. She has not renounced her citizenship"
       },
       {
-        question: "_____________________ is a sale with transfer of ownership. The property is covered by a pre-existing mortgage, and the buyer pays the seller a stipulated amount and assumes the mortgage obligation.",
-        options: ["A. Sale with the assumption of mortgage", "B. Foreclosure Sale", "C. Tax Delinquency Sale", "D. Deed of Sale with Mortgage"],
-        correct: "A. Sale with the assumption of mortgage",
+        question: "For late payment of special education fund tax, the lot owner shall be liable to pay a maximum total interest of",
+        options: ["A. 5 years", "B. 3 years", "C. Until Paid", "D. All year unpaid"],
+        correct: "C. Until Paid"
       },
       {
-        question: "On Pacto de Retro contract of sale when there is no stipulation on the period to which the vendor shall have the right to buy back or redeem of the property, the period of redemption shall be:",
-        options: ["A. 2 years", "B. 4 years", "C. 8 years", "D. 6 years"],
-        correct: "B. 4 years",
+        question: "Ms. Alona will get married this year and will enter into a prenuptial agreement with agreement on complete separation of property regime. What will be their property relations after marriage?",
+        options: ["A. Conjugal partnership of gains", "B. Separation of property", "C. Absolute community property", "D. Co-ownership"],
+        correct: "B. Separation of property"
       },
       {
-        question: "A provision in the blanket mortgage that the property whose loan value has been fully paid shall be released from the mortgage.",
-        options: ["A. Automatic Redemption Clause", "B. Hold-over Clause", "C. Escalation Clause", "D. Foreclosure Proceeding"],
-        correct: "A. Automatic Redemption Clause",
+        question: "Under Rule 4, Sec 27, the following acts constitute the practice of real estate service except:",
+        options: ["A. Real Estate brokerage", "B. Real Estate Appraisal", "C. Real Estate Management", "D. Real Estate Consultancy"],
+        correct: "C. Real Estate Management"
       },
       {
-        question: "The recording of an instrument gives:",
-        options: ["A. Documented notice", "B. Legal notice", "C. Actual notice", "D. Constructive notice"],
-        correct: "D. Constructive notice",
+        question: "The daughter of a Filipino went to abroad and then became a foreign citizen. The daughter may still own land in the Philippines upon the death of the parents by",
+        options: ["A. Acquiring dual citizenship", "B. Hereditary succession", "C. Marriage to a Filipina", "D. Donation from the parents"],
+        correct: "B. Hereditary succession"
       },
       {
-        question: "Romeo and Juliet Corporation leased out a commercial unit to Jonel for a monthly rent of P20,000, VAT-inclusive. How much is the amount of VAT in the monthly rent being paid by Jonel to Romeo and Juliet Corporation if it is a VAT taxpayer?",
-        options: ["A. 2,140", "B. 2,000", "C. 2,142", "D. 2,400"],
-        correct: "C. 2,142",
+        question: "It is the physical, tangible entity, together with all the additions or improvements on, above or below the ground, includes all the rights, interest and benefits related to the ownership of real estate",
+        options: ["A. Real estate", "B. Real estate rights", "C. Real property", "D. Real estate ownership"],
+        correct: "C. Real property"
       },
       {
-        question: "The preparation of zoning plan and ordinances, like the proper action of any other element of the Comprehensive Land Use Plan should begin with the careful study of the following, EXCEPT:",
-        options: ["A. Political party", "B. Population and its characteristics", "C. Economic functions of the community", "D. Physical condition"],
-        correct: "A. Political party",
+        question: "The real estate practitioner should ensure the highest and best use of the land and the equitable distribution of the ownership, irrespective of political beliefs, cultural background, sect, religion, or class. This rule of conduct and practice is under:",
+        options: ["A. Relation to the Government", "B. Relation to the Public", "C. Relation to the Client", "D. Relation to Fellow Practitioners"],
+        correct: "B. Relation to the Public"
       },
       {
-        question: "A partial form of ownership in which other tenant in common purchase the right of use/occupancy for a specified period of time:",
-        options: ["A. Condominium", "B. Fee Simple", "C. Cooperative", "D. Time-share"],
-        correct: "D. Time-share",
+        question: "Certificate of Registration shall be issued to the licensed real estate service practitioner and shall be assigned to each of them. The professional Identification Card shall be valid:",
+        options: ["A. Every three years and valid until December 31 of every third year", "B. Every three years and valid until the licensee's birthdate", "C. Every three years", "D. Issued a new one after three years"],
+        correct: "B. Every three years and valid until the licensee's birthdate"
       },
       {
-        question: "The following are the eligibility criteria to qualify for the socialized housing program, except:",
-        options: ["A. must be a Filipino citizen", "B. must not be a professional squatter", "C. must be at the head of at least a family of five", "D. must not own any real property in urban or rural areas"],
-        correct: "C. must be at the head of at least a family of five",
+        question: "Which of the following acts can be considered to be unethical for a real estate broker?",
+        options: ["A. The broker should cooperate with other brokers on property listed", "B. The broker should share the commission on an agreed basis", "C. The broker should seek no unfair advantage over his fellow brokers", "D. The brokers can use the services of the salesman of another broker provided he pays the salesperson a commission"],
+        correct: "D. The brokers can use the services of the salesman of another broker provided he pays the salesperson a commission"
       },
       {
-        question: "A lien created a law which exists in favor of persons who have performed or furnished materials in the erection or repair of a building -",
-        options: ["A. Mechanics Lien", "B. Encumbrance", "C. Lis Pendens", "D. Acceleration Clause"],
-        correct: "A. Mechanics Lien",
+        question: "Ms. Honney will marry this coming year but does not intend to enter into a marriage settlement. What will be their property relation after marriage?",
+        options: ["A. Conjugal partnership of gains", "B. Relative community of property", "C. Absolute community property", "D. Co-ownership"],
+        correct: "C. Absolute community property"
       },
       {
-        question: "A method of acquiring ownership through possession:",
-        options: ["A. Adverse possession", "B. Attachment", "C. Foreclosure", "D. Expropriation"],
-        correct: "A. Adverse possession",
+        question: "MACEDA Law is what RA#?",
+        options: ["A. RA 6552", "B. RA 6655", "C. RA 7655", "D. RA 6635"],
+        correct: "A. RA 6552"
       },
       {
-        question: "Republic Act Number 7279 authorized qualified local government units to impose and additional one-half percent tax on the assessed value of all lands in urban areas in excess of____.",
-        options: ["A. 60,000", "B. 50,000", "C. 175,000", "D. 100,000"],
-        correct: "B. 50,000",
+        question: "Properties of public dominion are the following, except –",
+        options: ["A. Properties of the State intended for public use by anybody;", "B. Properties of the State reserved for the development of national wealth like natural resources", "C. Properties of the State to be used for public service", "D. Properties of the State that can be sold to the private sector"],
+        correct: "D. Properties of the State that can be sold to the private sector"
       },
       {
-        question: "The Torrens System is the present Land Registration in the Philippines covers",
-        options: ["A. both voluntary and involuntary registration of titles", "B. both original and administrative registration of titles", "C. both judicial and administrative registration of titles", "D. both original and subsequent registration of titles"],
-        correct: "D. both original and subsequent registration of titles",
+        question: "Mrs. Wung got married last August 2012, but her father donated to her a condominium unit in Makati before she got married. In such case, the property will be considered:",
+        options: ["a) Exclusive property", "b) Conjugal property", "c) Community property", "d) Separate property"],
+        correct: "c) Community property"
       },
       {
-        question: "A lease that requires that all or part of the tenant's rent can be based on the tenant's revenue is _____________.",
-        options: ["A. A lease at will", "B. A flat lease", "C. A percentage lease", "D. A gross lease"],
-        correct: "C. A percentage lease",
+        question: "The following is not considered a public grant",
+        options: ["A. Free patent issued by the government", "B. Sales Patent", "C. Sale by city treasurer due to delinquent real estate taxes", "D. Homestead grant"],
+        correct: "C. Sale by city treasurer due to delinquent real estate taxes"
       },
       {
-        question: "Under BP 220, the design of housing projects has to prioritize physical needs in the following order of importance.",
-        options: ["A. health center, daycare center, church, public school, assembly hall, basketball court, and cell sites", "B. police station, fire station, government office, jail, cemetery, telephone and cable trunk lines", "C. electricity recreation, transport vehicles, market for foodstuffs, water supply, solid waste facility", "D. water, roads for circulation, storm water drainage, disposal of solid and liquid wastes, power, park/playground"],
-        correct: "D. water, roads for circulation, storm water drainage, disposal of solid and liquid wastes, power, park/playground",
+        question: "The BIR examiner, in case of the sale of a person of a house and lot considered as ordinary asset, must first determine the following before the examiner will be able to know the rate of tax to be imposed;",
+        options: ["A. whether the person is habitually engaged in real estate business or not", "B. whether the property is conjugal or community property", "C. the selling price, zonal value or assessor's value whichever is higher", "D. whether the house and lot is new or old"],
+        correct: "A. whether the person is habitually engaged in real estate business or not"
       },
       {
-        question: "The minimum burial plot size for a TOMB FOR CEMETRIES IS:",
-        options: ["A. 1.60 meter x 3.00 meters inside dimension", "B. 1.50 meter x 3.00 meters inside dimension", "C. 1.60 meter x 3.00 meters outside dimension", "D. 1.50 meter x 3.00 meters outside dimension"],
-        correct: "A. 1.60 meter x 3.00 meters inside dimension",
+        question: "When soil is deposited through the gradual by the following of the river in the property along the river, the deposited soil is called",
+        options: ["A. Avulsion", "B. Alluvium", "C. Accretion", "D. River bed"],
+        correct: "B. Alluvium"
       },
       {
-        question: "A judgment for the mortgage to pay the balance of an obligation if the proceeds of the foreclosure sale are not sufficient to cover the mortgage obligation.",
-        options: ["A. Writ of Preliminary Attachment", "B. Deficiency Judgment", "C. Adverse Claim", "D. Notice of Lis Pendens"],
-        correct: "B. Deficiency Judgment",
+        question: "Which of the following is considered as a voluntary limitation on one's of ownership to land",
+        options: ["A. Right of way agreement", "B. Police power", "C. Taxation", "D. Zoning regulations"],
+        correct: "A. Right of way agreement"
       },
       {
-        question: "Republic Act 9267 is also known as _____________.",
-        options: ["A. Securitization Act of 2004", "B. PRC Modernization Act", "C. Condominium Act", "D. Universal Health Care Act"],
-        correct: "A. Securitization Act of 2004",
+        question: "Two neighbors enter into a sale of a house and lot in cash. This type of transfer is referred to as",
+        options: ["A. Involuntary grant", "B. Private grant", "C. Installment grant", "D. Adjacent owner grant"],
+        correct: "B. Private grant"
       },
       {
-        question: "The area of triangular plot is computed by the formula:",
-        options: ["A. Length x width", "B. 2 k x length x width", "C. ½ x length x width", "D. Length x width x height"],
-        correct: "C. ½ x length x width",
+        question: "In taxation, the basis for the computation of the capital gains tax on the sale of a house and lot, shall be the following whichever is higher, except:",
+        options: ["A. Appraised value", "B. Zonal value", "C. Selling price of the sale", "D. Assessor's value"],
+        correct: "A. Appraised value"
       },
       {
-        question: "A kind of registration whereby the act is done through the courts:",
-        options: ["A. Voluntary", "B. Compulsory", "C. Judicial", "D. Administrative"],
-        correct: "C. Judicial",
+        question: "It is the power of the state to take private property for the purpose of public use, provided there is payment of just compensation",
+        options: ["A. Expropriation", "B. Eminent Domain", "C. Police Power", "D. Escheat"],
+        correct: "B. Eminent Domain"
       },
       {
-        question: "A lot which includes roads, sidewalks, alleys and planting strips, and its gutter, drainage and sewerage is called?",
-        options: ["A. Road lots", "B. Open space", "C. Subdivision lots", "D. Parks and playgrounds"],
-        correct: "A. Road lots",
+        question: "In case a real estate brokers are also a real estate appraiser, he or she may not appraise the property of his client if",
+        options: ["A. He will not be paid a professional fee", "B. He will also sell the property after appraising it", "C. He is a new real estate appraiser", "D. The owner wants a predetermined price of the property"],
+        correct: "B. He will also sell the property after appraising it"
       },
       {
-        question: "The administrative reconstitution under R.A. 6732 of lost or destroyed certificates in the Registry of Deeds may be availed when the number of certificates lost or destroyed is at least ______ of all times in the Registry.",
-        options: ["A. 40%", "B. 25%", "C. 10%", "D. 50%"],
-        correct: "C. 10%",
+        question: "Quieting of Title means",
+        options: ["A. To ban the Owner from obtaining a copy of the property's title", "B. To bring to court an action involving a question of ownership or rights to a property", "C. To cancel the title of the property", "D. To apply for a new title to replace that which was lost"],
+        correct: "B. To bring to court an action involving a question of ownership or rights to a property"
       },
       {
-        question: "In a sale that involves sellers who are staying abroad, a representative will be given a/an:",
-        options: ["A. Memorandum of Undertaking", "B. Affidavit of Self-adjudication as Sole Heir", "C. Special Power of Attorney duly notarized and approved by consul of the embassy", "D. A Special Power of Attorney executed abroad and notarized in the Philippines"],
-        correct: "C. Special Power of Attorney duly notarized and approved by consul of the embassy",
+        question: "The following considered unethical for the real estate broker to do when selling a house and lot",
+        options: ["A. To have the house cleaned before bringing the buyer", "B. To tell the buyer there are many buyers interested although there are only few interested buyers", "C. To open the windows of the house before bringing the buyer", "D. To pass through a better road instead of the road with squatters"],
+        correct: "B. To tell the buyer there are many buyers interested although there are only few interested buyers"
       },
       {
-        question: "The following describes the characteristics of a Joint Tenancy",
-        options: ["A. I, II, III", "B. I, II, III, IV", "C. I, II, III, IV, V", "D. III, IV, V"],
-        correct: "C. I, II, III, IV, V",
+        question: "The wife may question the sale of the house and lot if it is required that her consent be obtained within a period of how many years form the date of the contract",
+        options: ["A. 10 years", "B. 5 years", "C. 2 years", "D. 1 year"],
+        correct: "A. 10 years"
       },
       {
-        question: "What percent is to be paid to the Registry of Deeds upon entry of certificate in the name of owner of TCT, based on assessed value of land as contribution to assurance fund?",
-        options: ["A. 1/4 of 2%", "B. 1/2 of 2%", "C. 1/4 of 1%", "D. 1/2 of 1%"],
-        correct: "C. 1/4 of 1%",
+        question: "The top three major Philippine lakes in order from largest, 2nd largest, 3rd largest are:",
+        options: ["A. Laguna Lake, Lanao Lake, and Taal Lake", "B. Laguna Lake, Lanao Lake, and Lake Mainit", "C. Laguna Lake, Lanao Lake, and Lake Lumao", "D. Lanao Lake, Laguna Lake, and Taal Lake"],
+        correct: "D. Lanao Lake, Laguna Lake, and Taal Lake"
       },
       {
-        question: "The Assessor's Office is an agency where we inquire and conduct research on:",
-        options: ["A. Title verification", "B. Market value", "C. Zonal Value", "D. Cadastral map"],
-        correct: "B. Market value",
+        question: "Land acquired through public auction due to nonpayment of the delinquent real estate taxes is a grant referred to as",
+        options: ["A. Private grant", "B. Public grant", "C. Involuntary grant", "D. Foreclosure grant"],
+        correct: "C. Involuntary grant"
       },
       {
-        question: "A contract that transfers possession but not ownership of property is",
-        options: ["A. A special warranty deed", "B. An option", "C. An easement", "D. A lease"],
-        correct: "D. A lease",
+        question: "The exemption on the payment of the capital gains tax on the sale of a principal residence by the individual seller who will utilize the proceeds to purchase a new residence maybe availed only:",
+        options: ["A. Thrice every 20 years", "B. Twice every 10 years", "C. Once every 10 years", "D. Once every 5 years"],
+        correct: "C. Once every 10 years"
       },
       {
-        question: "An annotation on the title which serves as a notice that the property is being held in reserve for whatever judgment may be rendered against the owner:",
-        options: ["A. Writ of Preliminary Attachment", "B. Deficiency Judgment", "C. Adverse Claim", "D. Notice of Lis Pendens"],
-        correct: "A. Writ of Preliminary Attachment",
+        question: "Land is unique because",
+        options: ["A. No two parcels have the same owners.", "B. No two parcels have the same features", "C. No two parcels have the same soil composition", "D. No two parcels can occupy the same space on the face of the earth"],
+        correct: "D. No two parcels can occupy the same space on the face of the earth"
       },
       {
-        question: "____________ is a lease in which a party rents property from the property owner and then subsequently leases it out to another tenant",
-        options: ["A. Operating Lease", "B. Rent-to-own", "C. Sandwich Lease", "D. Multiple Renting"],
-        correct: "C. Sandwich Lease",
+        question: "An absolute, unrestricted estate in perpetuity to property is called –",
+        options: ["A. Estate for years", "B. Freehold", "C. Tenancy", "D. None of the above"],
+        correct: "B. Freehold"
       },
       {
-        question: "Defined as the inscription, recording or annotation of an act and contracts resulting to the ownership of and other rights over land:",
-        options: ["A. Land Registration", "B. Land Dispute", "C. Land Title", "D. Land Ownership"],
-        correct: "A. Land Registration",
+        question: "The Philippine's titling system is based on the Torren's system developed by a person from -",
+        options: ["A. Spanish colonial government", "B. Australia", "C. American government", "D. Commonwealth government"],
+        correct: "B. Australia"
+      },
+      {
+        question: "In his dry seal, letterhead, advertisement or announcements, the real estate broker must indicate his:",
+        options: ["A. license number", "B. contact number", "C. office address", "D. personal circumstances"],
+        correct: "A. license number"
+      },
+      {
+        question: "Anti-Red tape act of 2007",
+        options: ["A. RA 9194", "B. RA 9225", "C. RA 9485", "D. RA 9700"],
+        correct: "C. RA 9485"
+      },
+      {
+        question: "Under RA 7160, the share of a municipality in Metro Manila in the proceeds of real estate taxes is:",
+        options: ["A. 40%", "B. 30%", "C. 25%", "D. 35%"],
+        correct: "D. 35%"
+      },
+      {
+        question: "The law that governs the property relations of two people who plan to get married in 2015 is referred as",
+        options: ["A. The New Civil Code", "B. Family Code of the Philippines", "C. Property Code of the Philippines", "D. The Family Law of the Philippines"],
+        correct: "B. Family Code of the Philippines"
+      },
+      {
+        question: "A 2-story house and lot was being rented out by the owner and listed it through several brokers. A broker who also obtained the listing can place his for rent sign if authorized by the owner and only if",
+        options: ["A. It does not exceed two signs for rent", "B. It is placed not less than 2 meters aways from the other sign", "C. His sign is not more than 2x2 meters in size", "D. There is no sign placed on the property"],
+        correct: "D. There is no sign placed on the property"
+      },
+      {
+        question: "When Real Estate Service practitioners resigned from the company how many days where the company should inform the PRC-PRBRES?",
+        options: ["A. 15 working days", "B. 15 days", "C. 30 days", "D. 20 working days"],
+        correct: "B. 15 days"
+      },
+      {
+        question: "For one to have a property relation of complete separation of property, the future spouses must execute this document before marriage",
+        options: ["A. Married Contract", "B. Prenuptial agreement", "C. Judicial separation of property", "D. Affidavit of waiver"],
+        correct: "B. Prenuptial agreement"
+      },
+      {
+        question: "Unpaid real property tax is subject to 2% per month interest, up to a maximum period of",
+        options: ["A. 12 months", "B. 24 months", "C. 36 months", "D. until paid"],
+        correct: "C. 36 months"
+      },
+      {
+        question: "An annotation on the title which serves as a notice that the property is being held in reserve for whatever judgement may be rendered against the owner.",
+        options: ["A. Writ of Preliminary Attachment", "B. Deficiency Judgement", "C. Adverse Claim", "D. Notice of Lis Pendens"],
+        correct: "A. Writ of Preliminary Attachment"
+      },
+      {
+        question: "Under RA 7160, the share of a barangay in a province in the proceeds of real estate taxes is:",
+        options: ["A. 20%", "B. 30%", "C. 25%", "D. 35%"],
+        correct: "C. 25%"
+      },
+      {
+        question: "Former natural-born Filipinos can also acquire land for business purposes, up to 5,000 sqm in urban areas or 3 hectares in rural areas, under -",
+        options: ["A. R.A. 7042", "B. B.P. 185", "C. R.A. 10023", "D. R.A. 9225"],
+        correct: "A. R.A. 7042"
+      },
+      {
+        question: "This principle states that the citizenship of a person shall be based on the location of birth of person is called",
+        options: ["A. Jus sanguinis", "B. Jus soli", "C. Jus locandi", "D. Dual Citizenship"],
+        correct: "B. Jus soli"
+      },
+    ],
+  },
+  {
+    id: "part3", 
+    title: "Part 3 - Professional Practice",
+    questions: [
+      {
+        question: "A condominium unit earns a monthly income of P35,000.00 Using the monthly gross rent multiplier of 240, building value is estimated at:",
+        options: ["A. P840,000", "B. P84,000", "C. P8,400,000", "D. P84,000,000.00"],
+        correct: "C. P8,400,000"
+      },
+      {
+          question: "The economic base is",
+          options: ["A. The lower line in a graph showing the economy of a community", "B. The ratio of basic industries to technical Industries in a community", "C. An inexpensive, large string instrument X", "D. The economic activity that enables it to attract income from outside its borders"],
+          correct: "D. The economic activity that enables it to attract income from outside its borders"
+      },
+      {
+          question: "A principle in appraisal, which refers to the agents in production are labor, coordination, capital and land. Land has the last claim on the surplus productivity of the agents in production.",
+          options: ["A. progression", "B. regression", "C. balance", "D. highest and best use"],
+          correct: "C. balance"
+      },
+      {
+          question: "Which is not a cardinal direction in map reading?",
+          options: ["A. North", "B. North-East", "C. East", "D. South"],
+          correct: "B. North-East"
+      },
+      {
+          question: "A Gridiron is a subdivision scheme where the resulting blocks are more or less",
+          options: ["A. Rectangular in shape", "B. Square in shape", "C. Regular in shape", "D. Trapezoidal in shape"],
+          correct: "A. Rectangular in shape"
+      },
+      {
+          question: "Contour lines refers to those lines in a topographic map which indicate the:",
+          options: ["A. elevation of the land at upper sections", "B. elevation of the land at lower sections", "C. elevation of the land at various sections", "D. elevation of the land at middle sections"],
+          correct: "C. elevation of the land at various sections"
+      },
+      {
+          question: "This refers to the statistical study of human population.",
+          options: ["A. demographics", "B. demography", "C. geography", "D. statistics"],
+          correct: "B. demography"
+      },
+      {
+          question: "It is the national agenda for sustainable development. It outlines the integrating strategies for the country's overall sustainable development and identifies the intervention areas from the national to the regional level.",
+          options: ["A. PA 20", "B. SD 21", "C. PA 21", "D. SD 20"],
+          correct: "C. PA 21"
+      },
+      {
+          question: "Demand for real estate may be affected by",
+          options: ["A. Increasing population and employment", "B. Availability of mortgage financing", "C. Increases in purchasing power", "D. All of the above"],
+          correct: "D. All of the above"
+      },
+      {
+          question: "The certification of value section of an appraisal report states everything EXCEPT that",
+          options: ["A. the appraiser has no interest in the property", "B. the fee is not contingent upon any aspect of the report", "C. the facts are correct to the best of the appraiser knowledge", "D. last year the property was appraised by another person"],
+          correct: "D. last year the property was appraised by another person"
+      },
+      {
+          question: "A church in a residential area is an example of",
+          options: ["A. police power", "B. forecast absorption", "C. a nonconforming use", "D. a private restriction"],
+          correct: "C. a nonconforming use"
+      },
+      {
+          question: "To adjust the sale price of a comparable sale with a 10% inferior location, you should:",
+          options: ["A. Add 10% to the price", "B. Subtract 10% from the price", "C. Multiply the price by 10%", "D. None of the above"],
+          correct: "D. None of the above"
+      },
+      {
+          question: "The survey conducted over a parcel of land in order to determine the contour, terrain and elevation of the said land is a _____________________.",
+          options: ["A. Topographic Survey", "B. Relocation Survey", "C. Public Land Subdivision", "D. Cadastral Survey"],
+          correct: "A. Topographic Survey"
+      },
+      {
+          question: "Linkages are",
+          options: ["A. The devices used to change a property from one use to another", "B. The relationships between a buyer and seller in a real estate deal", "C. Time-distance relationships between a property use and the supporting facilities", "D. The tools necessary to market real estate"],
+          correct: "C. Time-distance relationships between a property use and the supporting facilities"
+      },
+      {
+          question: "To adjust the sale price of a comparable sale with a 10% superior location, you should:",
+          options: ["A. Add 10% to the price", "B. Subtract 10% from the price", "C. Multiply the price by 10%", "D. Multiply the price by 10%"],
+          correct: "B. Subtract 10% from the price"
+      },
+      {
+          question: "A financing scheme to assist and enable informal settlers, slum dwellers or residents of blighted areas, in purchasing through their duly registered community association, the land they occupy or the land where they will be relocated is referred to as:",
+          options: ["A. Joint Venture Agreement", "B. Community Development Program", "C. Community Mortgage Program", "D. Urban Development Program", "E. PAG-IBIG financing"],
+          correct: "C. Community Mortgage Program"
+      },
+      {
+          question: "The highest amount in terms of money that a property should bring given reasonable time exposure in the open and competitive market:",
+          options: ["A. Market Value", "B. Fair Market Value", "C. Fair Value", "D. Appraised Value"],
+          correct: "B. Fair Market Value"
+      },
+      {
+          question: "The air contains 78% nitrogen which the plants cannot use in that form. It is in this usable form that plant can use nitrogen.",
+          options: ["A. bacteria", "B. fertilizer", "C. algae", "D. lightning"],
+          correct: "B. fertilizer"
+      },
+      {
+          question: "An isolated settlement consisting of one house",
+          options: ["A. farm", "B. village", "C. hamlet", "D. town"],
+          correct: "A. farm"
+      },
+      {
+          question: "After agreeing on the final price, the buyer gave earnest money to the seller. The earnest money shall be considered",
+          options: ["A. Part of the Purchase Price", "B. A consideration distinct from the total contract price", "C. Not part of the Purchase Price", "D. Option Money"],
+          correct: "A. Part of the Purchase Price"
+      },
+      {
+          question: "The desirability of the economic utility of the property is known as:",
+          options: ["A. Economic Utility", "B. Economic Life", "C. Economic Value", "D. Economic Obsolescence"],
+          correct: "C. Economic Value"
+      },
+      {
+          question: "Two homes in the same subdivision have the same amenities, size, features, and location. One is priced at P1,000,000 and the other is priced at P1,100,000.",
+          options: ["A. The lower-priced home will sell quickly.", "B. The lower-priced home will attract more demand.", "C. The lower-priced home will get more showings.", "D. The lower-priced home will sell for the full list price."],
+          correct: "B. The lower-priced home will attract more demand."
+      },
+      {
+          question: "A personal property mortgage is a:",
+          options: ["A. real estate mortgage", "B. chattel mortgage", "C. blanket mortgage", "D. collateral pledge"],
+          correct: "B. chattel mortgage"
+      },
+      {
+          question: "The following are determinants of value, except:",
+          options: ["A. Lease Fee Estate", "B. Lease Fee Money", "C. Lease Contract", "D. Lease Purchase"],
+          correct: "A. Lease Fee Estate"
+      },
+      {
+          question: "The theory that each incremental item becomes less expensive as the volume is increased",
+          options: ["A. Efficiency", "B. Economies of scale", "C. Profit", "D. Marginal"],
+          correct: "B. Economies of scale"
+      },
+      {
+          question: "Lands in the National Capital Region are covered by the Urban Land Reform Law when they are:",
+          options: ["A. Big landed areas", "B. Abandoned and idle lands", "C. Within 244 area for priority development", "D. Suitable for socialized housing"],
+          correct: "C. Within 244 area for priority development"
+      },
+      {
+          question: "Those assets which are not physical and material in nature are called:",
+          options: ["A. intangible assets", "B. tangible assets", "C. fixed assets", "D. liquid assets"],
+          correct: "A. intangible assets"
+      },
+      {
+          question: "The measurement of the land to determine its external boundaries and ascertain whether or not there are encroachments.",
+          options: ["A. Relocation Survey", "B. Amendment Survey", "C. Subdivision Survey", "D. Cadastral Survey"],
+          correct: "A. Relocation Survey"
+      },
+      {
+          question: "The survey comprising all classes of surveys of isolated parcels of land used for agricultural, residential, commercial resettlement or other purposes is __________________.",
+          options: ["A. Geodetic Control Survey", "B. Private Land Survey", "C. Isolated Survey", "D. Cadastral Survey"],
+          correct: "A. Geodetic Control Survey"
+      },
+      {
+          question: "The application of economic techniques to real estate markets which tries to describe, explain, and predict patterns of prices, supply, and demand is called:",
+          options: ["A. Economics", "B. Real Estate Economics", "C. Economics & Finance", "D. Real Estate Finance"],
+          correct: "B. Real Estate Economics"
+      },
+      {
+          question: "Refers to heavy industry involving ferrous metal, iron or steel mills; petroleum or petro-chemical, oil gas, or smelting plants.",
+          options: ["A. Environmentally Critical Area", "B. Environmentally Critical Projects", "C. Environmental Critical Impact", "D. Environmental Impact Assessment"],
+          correct: "B. Environmentally Critical Projects"
+      },
+      {
+          question: "The maximum length of block as provided in the HLURB design standards for a subdivision shall be 400 meters, however blocks exceeding 250 meters shall be provided with an alley at approximately at certain length.",
+          options: ["A. 1/3 of its length", "B. 3/4 of its length", "C. mid-length or 1/2 its length", "D. 2/3 of its length"],
+          correct: "C. mid-length or 1/2 its length"
+      },
+      {
+          question: "The effect of human activity to natural environment",
+          options: ["A. pollution", "B. environmental impact", "C. degradation", "D. disaster management"],
+          correct: "B. environmental impact"
+      },
+      {
+          question: "The compensation of the Broker depends on the overpriced obtained by the buyer. An agreement by which the broker may retain as compensation to his services all sums paid over and above the net price to the owner is known as:",
+          options: ["A. Multiple Listing", "B. Exclusive Agency Listing", "C. Net Listing", "D. Open Listing"],
+          correct: "C. Net Listing"
+      },
+      {
+          question: "The national approach of allocating available land resources as equitably as possible between competing user group is:",
+          options: ["A. Land assembly", "B. Land use planning", "C. On-site development", "D. Urban renewal"],
+          correct: "B. Land use planning"
+      },
+      {
+          question: "The estimated population of indigenous people which is composed of 110 tribes in the Philippines is almost",
+          options: ["A. 9-13M", "B. 14-17M", "C. 18-22M", "D. 5-8M"],
+          correct: "B. 14-17M"
+      },
+      {
+          question: "It is an Act enacted in order to curb illegal logging and other forms of forest destruction.",
+          options: ["A. Cut Saw Act of 2002", "B. Blade Saw Act of 2002", "C. Log Saw Act of 2002", "D. Chain Saw Act of 2002"],
+          correct: "D. Chain Saw Act of 2002"
+      },
+      {
+          question: "This principle may be said to be the principle of increasing and decreasing returns as it applies to some portion of improvements.",
+          options: ["A. highest and best use", "B. contribution", "C. change", "D. substitution"],
+          correct: "B. contribution"
+      },
+      {
+          question: "Land value can be estimated using the following approaches to value except:",
+          options: ["A. Market Data Approach", "B. Cost Approach", "C. Income Approach", "D. Residual Technique"],
+          correct: "B. Cost Approach"
+      },
+      {
+          question: "The extensive survey made to determine the metes and bounds within the entire municipality or city for land registration and other purposes is____________.",
+          options: ["A. Topographic Survey", "B. Relocation Survey", "C. Public Land Subdivision", "D. Cadastral Survey"],
+          correct: "D. Cadastral Survey"
+      },
+      {
+          question: "It refers to the management of the earth's resources in a way, which aims to restore and maintain the balance between human requirements and the other species of the world.",
+          options: ["A. Biodiversity", "B. Conservation", "C. Ecological footprint", "D. sustainable development"],
+          correct: "B. Conservation"
+      },
+      {
+          question: "Which is not one of the Reference Monuments?",
+          options: ["A. Provincial Boundary Monuments", "B. Barrio Boundary Monuments", "C. Municipal Boundary Monuments", "D. Barangay Boundary Monuments"],
+          correct: "D. Barangay Boundary Monuments"
+      },
+      {
+          question: "The survey conducted over a parcel of land in order to identify and re-establish the boundaries of the said land in accordance with the technical descriptions inscribed in the certificate of title or approved plans is a___________________.",
+          options: ["A. Topographic Survey", "B. Relocation Survey", "C. Public Land Subdivision", "D. Cadastral Survey"],
+          correct: "B. Relocation Survey"
+      },
+      {
+          question: "A document issued by DENR Secretary that the proposed project will not cause significant negative environmental impact.",
+          options: ["A. ECC", "B. EIA", "C. EIS", "D. ECP"],
+          correct: "A. ECC"
+      },
+      {
+          question: "It is a form of carbon present in the atmosphere",
+          options: ["A. CO", "B. CH2", "C. C02", "D. CC14"],
+          correct: "C. C02"
+      },
+      {
+          question: "A food web is",
+          options: ["A. spider habitat", "B. feeding relationships link", "C. consumers community", "D. organisms chain"],
+          correct: "B. feeding relationships link"
+      },
+      {
+          question: "A relationship between two (2) organisms of different species where one benefits and the other benefits or harmed",
+          options: ["A. mutualism", "B. commensalism", "C. parasitism", "D. symbiosis"],
+          correct: "C. parasitism"
+      },
+      {
+          question: "A real estate company that offers common shares to the public which is similar to any other stock that represents ownership in an operating business:",
+          options: ["A. Real Estate Development Corporation", "B. Real Estate Investment Trust", "C. Real Estate Investment Company", "D. Real Estate Development Trust"],
+          correct: "B. Real Estate Investment Trust"
+      },
+      {
+          question: "The importance of EIA as a tool that measures allocation and utilization in terms of cost associated with",
+          options: ["A. environmental preservation", "B. environmental degradation", "C. environmental conservation", "D. environmental awareness"],
+          correct: "C. environmental conservation"
+      },
+      {
+          question: "A building has a rental income of P350 per month. Using the monthly gross rent multiplier of 125, the value of the building would be estimated at:",
+          options: ["A. P35,714", "B. P437,500", "C. P43,750", "D. P357,140"],
+          correct: "C. P43,750"
+      },
+      {
+          question: "It is a process that involves predicting and evaluating the likely impacts of a projection the environment during construction, commissioning, operation and abandonment.",
+          options: ["A. ECP", "B. EIA", "C. ECC", "D. ECA"],
+          correct: "B. EIA"
+      },
+      {
+          question: "A rectangular site measures 12.5 meters (frontage) by 25.6 meters (depth), of which 2.6 meters is in the public right-of-way. What is the gross and net site area?",
+          options: ["A. 0.66 ha gross & 0.75 ha net", "B. 386.56 sq. m. gross & 320 sq. m. net", "C. 320 sq. m. gross & 287.5 sq. m. net", "D. 351 sq. m. gross & 320 sq. m. net"],
+          correct: "C. 320 sq. m. gross & 287.5 sq. m. net"
+      },
+      {
+          question: "A 'tumbok' lot is known as a:",
+          options: ["A. Cul-de-sac", "B. Thru Lot", "C. Key Lot", "D. Inner Lot"],
+          correct: "C. Key Lot"
+      },
+      {
+          question: "The present and future demand for a property and its absorption rate is considered in a",
+          options: ["A. letter in appraisal", "B. market feasibility study", "C. market segmentation", "D. highest and best used analysis", "E. transmittal letter"],
+          correct: "B. market feasibility study"
+      },
+      {
+          question: "One of the elements of green development is resource efficiency. An example of this is",
+          options: ["A. solar panel for house lighting", "B. Batanes stone house", "C. stilted house in Marikina", "D. Baguio Kennon Road"],
+          correct: "A. solar panel for house lighting"
+      },
+      {
+          question: "Environmentally critical project such as a smelting plant is classified as",
+          options: ["A. heavy industry", "B. resource extractive", "C. major infrastructure", "D. golf course"],
+          correct: "A. heavy industry"
+      },
+      {
+          question: "It is the national agenda for sustainable development",
+          options: ["A. Medium Term Development Plan", "B. Philippine Agenda 21", "C. PA 20", "D. SD 20"],
+          correct: "B. Philippine Agenda 21"
+      },
+      {
+          question: "In a high demand market, the cost of building a new property will increase substantially until",
+          options: ["A. It becomes impossible for prices to go higher", "B. The supply increases because new builders get into the market", "C. The charges from suppliers and subcontractors go down", "D. The BSP increases interest rates"],
+          correct: "B. The supply increases because new builders get into the market"
+      },
+      {
+          question: "A method of estimating market value of the property based on its income, based on the principles of anticipation and substitution:",
+          options: ["A. Market Data Approach", "B. Cost Approach", "C. Income Approach", "D. Residual Technique"],
+          correct: "C. Income Approach"
+      },
+      {
+          question: "All original surveys covering alienable and disposable lands which have not been subjected to private rights nor devoted to public use pursuant to the provisions of public land laws shall refer to____________",
+          options: ["A. Topographic Survey", "B. Relocation Survey", "C. Public Land Surveys", "D. Cadastral Survey"],
+          correct: "C. Public Land Surveys"
+      },
+      {
+          question: "The collateral value of Pag-ibig house and lot package is determined by applying:",
+          options: ["A. Loan to value ratio of housing unit", "B. Fund salary of applicant", "C. Net disposable income of applicant", "D. Gross monthly income of applicant"],
+          correct: "A. Loan to value ratio of housing unit"
+      },
+      {
+          question: "The area of a right triangle with a height of 10 ft and a base of 4 ft is",
+          options: ["A. 40 sq. ft.", "B. 25 sq. ft.", "C. 1.85 sqm", "D. 3.72 sqm"],
+          correct: "C. 1.85 sqm"
+      },
+      {
+          question: "How Much is the indicative value of the property if its net annual income is P2,500,000 with an overall capitalization rate of 10%?",
+          options: ["A. P2.75M", "B. P25M", "C. P250M", "D. P27.5M"],
+          correct: "B. P25M"
+      },
+      {
+          question: "The continued erosion of topsoil and the formation of deserts on grazing land",
+          options: ["A. desertification", "B. soil erosion", "C. liquefaction", "D. landslide"],
+          correct: "A. desertification"
+      },
+      {
+          question: "It is a modified system under the UHLP whereby housing loans may be extended through other conduits like banks:",
+          options: ["A. Turn-key Loan", "B. Multi-window Lending Program", "C. Project Loan", "D. Construction Loan"],
+          correct: "B. Multi-window Lending Program"
+      },
+      {
+          question: "Neighborhood social influences include all of the following except",
+          options: ["A. Population density", "B. Occupant age levels", "C. Occupant skill levels", "D. Vacancy rate"],
+          correct: "C. Occupant skill levels"
+      },
+      {
+          question: "It indicates the value of the property traded in the market which is referred to as market value:",
+          options: ["A. Appraised Value", "B. Valuation", "C. Value in Use", "D. Value in Exchange"],
+          correct: "D. Value in Exchange"
+      },
+      {
+          question: "It is the process of determining monetary values of the property rights encompassed in an ownership at some specific time/period:",
+          options: ["A. Appraised Value", "B. Valuation", "C. Value in Use", "D. Value in Exchange"],
+          correct: "B. Valuation"
+      },
+      {
+          question: "A gas that traps heat that would otherwise dissipate form the earth's surface",
+          options: ["A. methane gas", "B. carbon dioxide", "C. greenhouse gas", "D. oxygen"],
+          correct: "C. greenhouse gas"
+      },
+      {
+          question: "The smallest type of settlement in the Philippines",
+          options: ["A. province", "B. city", "C. municipality", "D. barangay"],
+          correct: "D. barangay"
+      },
+      {
+          question: "The following waters belong to the State, EXCEPT",
+          options: ["A. Rivers and their natural beds", "B. Seawater", "C. Subterranean or ground waters in private land", "D. water from a registered deep well"],
+          correct: "D. water from a registered deep well"
+      },
+      {
+          question: "The authority of the Broker to negotiate the sale lease, purchase, mortgage or exchange of real property for a fee and under certain terms and conditions within a specific period of",
+          options: ["A. Authority To Sell", "B. Extension of Authority", "C. Contract To Sell", "D. Exclusive Authority"],
+          correct: "A. Authority To Sell"
+      },
+      {
+          question: "The change in the development of urban commercial centers is due to:",
+          options: ["A. Urban Renewal", "B. Urban Re-development", "C. Urban Decay", "D. Revitalization"],
+          correct: "C. Urban Decay"
+      },
+      {
+          question: "Most extinctions occurring in the world today were caused by",
+          options: ["A. climate change", "B. floods", "C. lost of habitat", "D. hurricane"],
+          correct: "C. lost of habitat"
+      },
+      {
+          question: "It is a type of settlement where accretion occurs around nodes or core settlement resulting in agglomeration",
+          options: ["A. organic", "B. planned", "C. neighborhood", "D. None of above"],
+          correct: "A. None of above"
+      },
+      {
+          question: "It is land identified, as part of this zone shall qualify for exemption from the coverage of",
+          options: ["A. Philippine Economic Zone (PEZ)", "B. Forest Reserved Zone", "C. Tourism Economic Zone (TEZ)", "D. National Park Zone"],
+          correct: "C. Tourism Economic Zone (TEZ)"
+      },
+      {
+          question: "The owner wants a net proceed of P1,750,000.00 exclusive of capital gain tax, documentary stamps and 5% broker's commission. How much would be the selling price so that the broker can maintain his 5% commission?",
+          options: ["A. P 1,668,750.00", "B. P 1,680,000.00", "C. P 2,000,000.00", "D. P 2,200,000.00"],
+          correct: "C. P 2,000,000.00"
+      },
+      {
+          question: "Characteristics of human populations as defined by population size and density of regions, population growth rates, migration, vital statistics, and their effect on socio-economic",
+          options: ["A. demographics", "B. demography", "C. geography", "D. statistics"],
+          correct: "A. demographics"
+      },
+      {
+          question: "What is the total land area of a triangular lot which has a frontage of 20 meters and a depth of 30 meters?",
+          options: ["A. 600 sq. m.", "B. 300 sq. m.", "C. 60 sq. m.", "D. 30 sq. m."],
+          correct: "B. 300 sq. m."
+      },
+      {
+          question: "Symbiosis is a close ecological relationship of two (2) different species. The type of symbiotic relationship exists wherein the symbiont benefits to the detriment of the host.",
+          options: ["A. mutualism", "B. commensalism", "C. parasitism", "D. neutralism"],
+          correct: "C. parasitism"
+      },
+      {
+          question: "Deforestation has the effect of",
+          options: ["A. soil erosion", "B. global warming", "C. increase production of carbon dioxide", "D. decreasing biodiversity"],
+          correct: "B. global warming"
+      },
+      {
+          question: "It is a certification issued by the EMB certifying that based on the submitted project description, the project is not covered by the EIS system and is not required to secure an ECC",
+          options: ["A. Project impact study", "B. certificate of non-coverage", "C. Feasibility study", "D. Environmental impact study"],
+          correct: "B. certificate of non-coverage"
+      },
+      {
+          question: "The notable depression observes along C-5 Road in Libis, Quezon City is due to the:",
+          options: ["A. Poor ground preparation", "B. Fault", "C. Heavy Trucks", "D. Eastwood City Development"],
+          correct: "B. Fault"
+      },
+      {
+          question: "Interest is the compensation paid for the use of:",
+          options: ["A. savings", "B. Income", "C. rent", "D. capital"],
+          correct: "D. capital"
+      },
+      {
+          question: "Amortization refers to the process of making installment payments consisting of principal and interest that reduces the:",
+          options: ["A. loan balance", "B. term payment", "C. principal", "D. Interest payments"],
+          correct: "A. loan balance"
+      },
+      {
+          question: "When demand for housing increases, the supply",
+          options: ["A. Increases immediately", "B. Increases slowly", "C. Is unaffected", "D. Will diminish"],
+          correct: "B. Increases slowly"
+      },
+      {
+          question: "Contour Planning is a subdivision scheme for a:",
+          options: ["A. Flat Terrain", "B. Highly Elevated Terrain", "C. Rolling Terrain", "D. Gridiron"],
+          correct: "C. Rolling Terrain"
+      },
+      {
+          question: "The valuation technique which value the land and building separately is called as:",
+          options: ["A. Cost Approach", "B. Sales Comparison Approach", "C. Income Approach", "D. Abstraction and allocation method"],
+          correct: "A. Cost Approach"
+      },
+      {
+          question: "What form of diffusion is represented by the spread of Shoe Mart (SM)?",
+          options: ["A. cascade", "B. reverse hierarchical", "C. relocation", "D. stimulus"],
+          correct: "B. reverse hierarchical"
+      },
+      {
+          question: "An appraisal of current market value is considered to be accurate for",
+          options: ["A. 90 days", "B. one year", "C. until the property is sold", "D. date of appraisal"],
+          correct: "D. date of appraisal"
+      },
+      {
+          question: "The permanence of land coupled with the long term nature of improvements constructed on it has tended to stabilize investment in land.",
+          options: ["A. immobility", "B. transferability", "C. indestructibility", "D. utility"],
+          correct: "C. indestructibility"
+      },
+      {
+          question: "This refers to the geographical location of land that can never be changed. It is fixed.",
+          options: ["A. immobility", "B. transferability", "C. indestructibility", "D. utility"],
+          correct: "A. immobility"
+      },
+      {
+          question: "The theory that species have changed over long periods of time is known as",
+          options: ["A. succession", "B. ecology", "C. generation", "D. evolution"],
+          correct: "D. evolution"
+      },
+      {
+          question: "LEED is a U.S. certification for Green Building and its Philippine counterpart is",
+          options: ["A. Berde", "B. Green Star", "C. Estidama", "D. Breem"],
+          correct: "A. Berde"
+      },
+      {
+          question: "Which of the following refers to reconciliation?",
+          options: ["A. loss of value due to anything", "B. the process by which the appraiser determines highest and best use", "C. separating the value of the land from the total value of the property", "D. analyzing the results of the 3 approaches to value to determine the final estimate of value"],
+          correct: "D. analyzing the results of the 3 approaches to value to determine the final estimate of value"
+      },
+      {
+          question: "The owner wants a net proceed of P1,750,000.00 exclusive of capital gain tax, documentary stamps and 5% broker's commission. How much would be the selling price so that the broker can maintain his 5% commission?",
+          options: ["A. P 1,668,750.00", "B. P 1,680,000.00", "C. P 2,000,000.00", "D. P 2,200,000.00"],
+          correct: "C. P 2,000,000.00"
+      },
+      {
+          question: "The act of the Broker which is instrumental in effecting the meeting of the minds between the seller and the buyer of the real property as to price and terms and one of the requisites for a broker to be entitled to a commission is referred to as:",
+          options: ["A. Buyer", "B. Prospect", "C. Seller", "D. Suspect"],
+          correct: "B. Prospect"
+      },
+      {
+          question: "Refers to an imaginary connecting point of a lot with a reference point, such as a Bureau of lands Location Monument (BLLM)",
+          options: ["A. Tie Lines", "B. PSD", "C. Contour Lines", "D. Elevation Lines"],
+          correct: "A. Tie Lines"
+      },
+      {
+          question: "A vacant lot is rented for a car display for P24,000 per month. The interest rate applicable to this type of property is 8%. Compute the value of property by income approach:",
+          options: ["A. P2,400,000", "B. P2,600,000", "C. P2,800,000", "D. P3,600,000"],
+          correct: "A. D. P3,600,000"
+      },
+      {
+          question: "The highest price estimated in terms of money that a real property is acquired by a buyer who is willing to buy and a seller who is willing to sell but is not obliged or anxious to sell; both of whom have adequate knowledge of the actual and potential use of the property offered for a reasonable time in the open market and neither parties under pressure to buy or sell:",
+          options: ["A. Market Value", "B. Valuation", "C. Value in Use", "D. Value in Exchange"],
+          correct: "A. Market Value"
+      },
+      {
+          question: "The only region in the Philippine that has no indigenous people inhabitants",
+          options: ["A. Region 4", "B. Region 7", "C. Region 5", "D. Region 8"],
+          correct: "D. Region 8"
+      },
+      {
+          question: "Square Planning is a subdivision scheme for;",
+          options: ["A. Flat Terrain", "B. Highly Elevated Terrain", "C. Rolling Terrain", "D. Gridiron"],
+          correct: "A. Flat Terrain"
+      },
+      {
+          question: "If the subject property is 10% superior to Comparable Sale No. 1 and the comparable sold for P1,000,000. What is the indicated value of the subject?",
+          options: ["A. P1.1M", "B. P1.11M", "C. P900K", "D. P909,090"],
+          correct: "A. P1.1M"
+      },
+      {
+          question: "The biggest impact on the environment are made through",
+          options: ["A. migration", "B. competition", "C. predation", "D. human activities"],
+          correct: "D. human activities"
+      },
+      {
+          question: "A good's capacity to satisfy human desires or needs is known as",
+          options: ["A. Creative demand", "B. Utility", "C. Functional obsolescence", "D. Effective demand"],
+          correct: "B. Utility"
+      },
+      {
+          question: "Overproduction of new homes",
+          options: ["A. Causes oversupply and lower prices", "B. Causes increases in demand", "C. Causes prices to increase", "D. Causes the market to move toward a state of equilibrium"],
+          correct: "A. Causes oversupply and lower prices"
+      },
+      {
+          question: "It is that principle, which at the time of appraisal is likely to produce the greatest net return.",
+          options: ["A. highest and best use", "B. contribution", "C. change", "D. substitution"],
+          correct: "A. highest and best use"
+      },
+      {
+          question: "It is a defined and pre-determined area between two (2) areas of predominantly different land use/s.",
+          options: ["A. Buffer Zone", "B. Buffer", "C. Buffer Strip", "D. Buffering"],
+          correct: "A. Buffer Zone"
+      },
+      {
+          question: "Economic influences include all of the following except",
+          options: ["A. Occupant income levels", "B. Crime levels", "C. Property rent levels", "D. Birth rate"],
+          correct: "B. Crime levels"
+      },
+      {
+          question: "A type of economy where the government decides and drives the economy, focuses on what is needed rather than what is wanted",
+          options: ["A. Capitalism", "B. Socialism", "C. Mixed Capitalism", "D. Mixed Socialism"],
+          correct: "B. Socialism"
+      },
+      {
+          question: "The city planning department indicated a vacant residential lot located in the flood zone cannot be given a building permit. This site",
+          options: ["A. Has lost nearly all utility", "B. Has lost all desirability", "C. Has become scarce", "D. Has lost any effective purchasing power"],
+          correct: "A. Has lost nearly all utility"
+      },
+      {
+          question: "An agreement where the authorized broker allows cooperating broker to sell the property with stipulation on the sharing of commission is referred to as:",
+          options: ["A. Authority To Sell", "B. Extension of Authority", "C. Contract To Sell", "D. Exclusive Authority"],
+          correct: "D. Exclusive Authority"
+      },
+      {
+          question: "A power plant as another environmentally critical project is a",
+          options: ["A. heavy industry", "B. resource extractive", "C. major infrastructure", "D. golf course"],
+          correct: "C. major infrastructure"
+      },
+      {
+          question: "The lines in topographic map which indicate the elevation of the terrain at various sections of the land are",
+          options: ["A. Azimuth lines", "B. Elevation lines", "C. Contour lines", "D. Long and Curve Lines"],
+          correct: "C. Contour lines"
+      },
+      {
+          question: "If a particular buyer requires a recapture of the building portion of the price in 30 years, what is the indicated recapture rate of the building?",
+          options: ["A. 3%", "B. 31/2%", "C. 3 1/3%", "D. 3 1/4%"],
+          correct: "C. 3 1/3%"
+      },
+      {
+          question: "It is that price at which the willing seller will sell and the willing Buyer will buy, neither of the parties under abnormal pressure.",
+          options: ["A. Fair Market Value", "B. Exchange Value", "C. Appraisal Value", "D. Sound Value"],
+          correct: "A. Fair Market Value"
+      },
+      {
+          question: "The sale or transfer of real property to real estate investment trust shall be subject to:",
+          options: ["A. 10% of the applicable DST", "B. 25% of the applicable DST", "C. 50% of the applicable DST", "D. 75% of the applicable DST"],
+          correct: "C. 50% of the applicable DST"
+      },
+      {
+          question: "The following are types of nuisance, EXCEPT",
+          options: ["A. Excessive noise", "B. Illegal shanties in public and private properties", "C. Accumulation of refuse", "D. Breeding places and harborage of cows"],
+          correct: "D. Breeding places and harborage of cows"
+      },
+      {
+          question: "The priority right of a legitimate tenant of land on which he has built his house to purchase the land in an urban reform zone in the event the land owner desires to sell the land, provided that the tenancy is for at least ten (10) years is known as:",
+          options: ["A. Tenants right of first refusal", "B. tenancy in common", "C. tenants recovery right", "D. tenants waiver of rights"],
+          correct: "A. Tenants right of first refusal"
+      },
+      {
+          question: "A type of review undertaken to ensure that a valuation meets or exceeds the compliance requirements or guidelines of the specific market and, at a minimum, conforms to Generally Accepted Valuation Principles of the Philippine Valuation Standards.",
+          options: ["A. Field review", "B. Technical review", "C. Desk review", "D. Administrative review"],
+          correct: "D. Administrative review"
+      },
+      {
+          question: "The scientific study of population statistics is",
+          options: ["A. scientography", "B. demography", "C. segmentation", "D. forecasting"],
+          correct: "B. demography"
+      },
+      {
+          question: "The Cost Approach results in the most accurate appraisal of:",
+          options: ["A. an old building", "B. a single family residence", "C. a new building", "D. a vacant lot"],
+          correct: "C. a new building"
+      },
+      {
+          question: "It refers to acquisition of lots of varying ownership through purchase or expropriation for the purpose of planned and national development and social housing program without individual property boundary restrictions",
+          options: ["A. Land banking", "B. land swapping", "C. Land assembly", "D. Land use plan"],
+          correct: "C. Land assembly"
+      },
+      {
+          question: "Refers to the money given to the Seller by the Buyer in consideration of the right to purchase or lease a property within a specified period and at an agreed contract price.",
+          options: ["A. Option Money", "B. Down payment", "C. Earnest Money", "D. Option"],
+          correct: "A. Option Money"
+      },
+      {
+          question: "A less expensive house tends to gain in value because of more expensive neighborhood houses because of",
+          options: ["A. Progression Principle", "B. Regression Principle", "C. Both of the above", "D. None of the above"],
+          correct: "A. Progression Principle"
+      },
+      {
+          question: "It is the process in water cycle that water passes through plants into the air as water vapor.",
+          options: ["A. condensation", "B. evaporation", "C. precipitation", "D. transpiration"],
+          correct: "D. transpiration"
+      },
+      {
+          question: "It means discharge from known sources which is passed into a body of water or land or wastewater flowing out of a manufacturing plant, industrial plant including domestic, commercial and recreational facilities",
+          options: ["A. Effluent", "B. Affluent", "C. Contamina", "D. Dumping"],
+          correct: "A. Effluent"
+      },
+      {
+          question: "Mr. Roxas bought a property consisting of 26 hectares, 98 ares, and 300 centares. What is the total land area in square meter?",
+          options: ["A. 2,698,300", "B. 26,980,300", "C. 270,100", "D. 2,700,100"],
+          correct: "C. 270,100"
+      },
+      {
+          question: "Appraisals are always used",
+          options: ["A. To make residential mortgages", "B. to settle lawsuit", "C. To settle divorces", "D. to solve problem that involve real estate values"],
+          correct: "D. to solve problem that involve real estate values"
+      },
+      {
+          question: "It means any solid, semi-solid or liquid waste or residue generated from a wastewater treatment plant, etc., or any other such waste having similar characteristics and effects",
+          options: ["A. Septage", "B. Sewage", "C. Toxic", "D. Sludge"],
+          correct: "D. Sludge"
+      },
+      {
+          question: "Is defined as an amount accompanying an offer to purchase a property. It also refers to a part of the purchase price advanced by the Buyer to the Seller as a token of good faith for a perfection of the Contract.",
+          options: ["A. Option Money", "B. Amortization", "C. Earnest Money", "D. Option"],
+          correct: "C. Earnest Money"
+      },
+      {
+          question: "All of the following are characteristics of a real estate market except:",
+          options: ["A. Land is indestructible", "B. Land is immobile", "C. The market rapidly adjusts to changes in supply and demand", "D. Government controls play an important role when compared to other markets."],
+          correct: "C. The market rapidly adjusts to changes in supply and demand"
+      },
+      {
+          question: "This is one whereby the listing Broker is not entitled to a commission in case the property owner negotiates the sale of the property. The property owner can sell the property himself and is not oblige to pay the broker's commission,",
+          options: ["A. Multiple Listing", "B. Exclusive Agency Listing", "C. Net Listing", "D. Open Listing"],
+          correct: "B. Exclusive Agency Listing"
+      },
+      {
+          question: "Which of the following factors would not be important in comparing properties under the Market Data Approach?",
+          options: ["A. difference in dates of sale", "B. difference in financing", "C. difference in appearance/condition", "D. difference in original cost"],
+          correct: "C. difference in appearance/condition"
+      },
+      {
+          question: "A Cul-de-sac refers to a passageway with only one outlet known as:",
+          options: ["A. a center alley", "B. a blind alley", "C. a key lot", "D. a curve"],
+          correct: "B. a blind alley"
+      },
+      {
+          question: "A type of economy where the private sector and government perform equal roles in economic decision-making; competition with regulation.",
+          options: ["A. Capitalism", "B. Socialism", "C. Mixed Capitalism", "D. Mixed Socialism"],
+          correct: "C. Mixed Capitalism"
+      },
+      {
+          question: "This consists of provisions of basic utilities, judicious allocation of areas, good layout based on sound planning principles.",
+          options: ["A. Planned Community", "B. Planned Subdivision", "C. Planned Village", "D. Planned Neighborhood"],
+          correct: "A. Planned Community"
+      },
+      {
+          question: "This principle refers to an over-improvement or under improvement that reflects lack of conformity as between one property and its environment.",
+          options: ["A. conformity", "B. change", "C. supply and demand", "D. contribution"],
+          correct: "A. conformity"
+      },
+      {
+          question: "The Enchanted Kingdom theme park in Sta. Rosa has had a significant impact on uses of land in its vicinity for many years and an influence on the value of that land. Which of the four forces does this represent?",
+          options: ["A. Social", "B. Governmental", "C. Economic", "D. Environmental"],
+          correct: "C. Economic"
+      },
+      {
+          question: "What is EMB under the bureau of DENR",
+          options: ["A. Ecosystem Management bureau", "B. External Management bureau", "C. Environmental Management Bureau", "D. Environmentally Management Bureau"],
+          correct: "C. Environmental Management Bureau"
+      },
+      {
+          question: "PD1517 or Urban Land Reform Law an area considered urban when it has a population density of at least an area of.",
+          options: ["A. 1,000 resident per sq.km, and at least 25% of active resident engage in non agricultural activities", "B. 2,000 resident per sq.km, and at least 50% of active resident engage in non agricultural activities", "C. 1,500 resident per sq.km, and at least 50% of active resident engage in non agricultural activities", "D. 1,000 resident per sq.m, and at least 25% of active resident engage in non agricultural Activities"],
+          correct: "D. 1,000 resident per sq.m, and at least 25% of active resident engage in non agricultural Activities"
+      },
+      {
+          question: "The process of making an estimate of value of any asset/property in accordance with the generally accepted standards on a given date:",
+          options: ["A. Appraisal", "B. Valuation", "C. Value in Use", "D. Value in Exchange"],
+          correct: "A. Appraisal"
+      },
+      {
+          question: "It refers to meeting the needs of the present without compromising the ability of future generations to meet their own needs.",
+          options: ["A. Biodiversity", "B. conservation", "C. Ecological footprint", "D. sustainable development"],
+          correct: "D. sustainable development"
+      },
+      {
+          question: "A Real Investment Trust must have a minimum paid up capital of at least:",
+          options: ["A. P300,000,000.00", "B. P500,000,000.00", "C. P1,000,000,000.00", "D. P5,000,000,000.00"],
+          correct: "A. P300,000,000.00"
+      },
+      {
+          question: "A Key Lot refers to an adjoining corner lot and fronting a/an:",
+          options: ["A. intersecting street", "B. Cul-de-sac", "C. Chaplan", "D. Inner lot"],
+          correct: "A. intersecting street"
+      },
+      {
+          question: "A commercial property producing an annual gross income of P390,000 was sold two months ago for P3,412,500. What is the property's gross income multiplier?",
+          options: ["A. 8.75", "B. 7.75", "C. 7.0", "D. 8.5"],
+          correct: "A. 8.75"
+      },
+      {
+          question: "The Philippine Environmental Impact System (EIS) was formally established in 1978 by virtue of.",
+          options: ["A. PD 1586", "B. RA 6465", "C. RA1586", "D. PD 857"],
+          correct: "A. PD 1586"
+      },
+      {
+          question: "A parcel of land has the following features: area is 900 sqm., a corner lot, higher than the road, and almost rectangular in shape. If the prevailing price in the area if P10,000.00/sqm. and subject lot has corner influence of 15%, topographic value of 5% because of low elevation, and plottage value of 10% because of shape, what is the fair market value of the lot?",
+          options: ["A. P9,000,000.00", "B. P11,700,000.00", "C. P10,800,000.00", "D. P10,350,000.00"],
+          correct: "C. P10,800,000.00"
+      },
+      {
+          question: "The four forces that influence real estate values are",
+          options: ["A. Social, economic, governmental, and environmental", "B. Land, labor, capital, and green space", "C. Eminent domain, police power, escheat, and taxation", "D. Governmental, social, taxation, and economic conditions"],
+          correct: "A. Social, economic, governmental, and environmental"
+      },
+      {
+          question: "If a property has an operating ratio of .40, a vacancy rate of 20, and a gross income multiplier of 6, what is the indicated overall capitalization rate?",
+          options: ["A. 6.66%", "B. 8%", "C. 10%", "D. 12%"],
+          correct: "C. 10%"
+      },
+      {
+          question: "In a soft market, a landlord accepted a new tenant with a 60-month lease at P15,000.00 per month but gave the new tenant 3 months free rent. Using the average rent method, what is the effective monthly rent?",
+          options: ["A. P14,000.00", "B. P14,250.00", "C. P14,500.00", "D. P15,000.00"],
+          correct: "B. P14,250.00"
+      },
+      {
+          question: "Compute the monthly amortization factor if the paying period is 60 months and interest is 1% per month?",
+          options: ["A. 0.03233", "B. 0.02223", "C. 0.22223", "D. 0.22234"],
+          correct: "B. 0.02223"
+      },
+      {
+          question: "A square site measures has a street frontage of 15 meters. Its depth is affected by 2-meter road widening. What is the original area of the lot before expropriation?",
+          options: ["A. 30 sqm", "B. 60 sqm", "C. 195 sqm", "D. 225 sqm"],
+          correct: "D. 225 sqm"
+      },
+      {
+          question: "Refer to Item No. 153, what is now the new area of the lot after expropriation?",
+          options: ["A. 28 sqm", "B. 169 sqm", "C. 195 sqm", "D. None of above"],
+          correct: "D. Nove of above"
+      },
+      {
+          question: "A tenant has a lease that states the base rent is P20,000.00 per month plus 3% of the sales above P100,000.00 in gross sales per month. The tenant's sales last year were P1.5M. How much rent was paid last year?",
+          options: ["A. P240,000.00", "B. P246,000.00", "C. P249,000.00", "D. P258,000.00"],
+          correct: "C. P249,000.00"
+      },
+      {
+          question: "What is the unit cost of the residential subdivision if the rawland was acquired at P800.00 per square meter while estimated development cost per square meter is P1,000.00. The maximum saleable area because of the terrain is only 60%",
+          options: ["A. P800.00", "B. P1,000.00", "C. P1,800.00", "D. P3,000.00"],
+          correct: "D. P3,000.00"
+      },
+      {
+          question: "Refer to Item No. 160, what is the selling price per square meter of the subdivision if operating cost is 20% of selling price and developer's profit is 30% of the selling price?",
+          options: ["A. P1,000.00", "B. P1,800.40", "C. P3,000.00", "D. P6,000.00"],
+          correct: "D. P6,000.00"
+      },
+      {
+          question: "What is the maximum allowable gross floor area of a condominium project if the lot area is 2,000 square meters, and the floor area ratio (FAR) is 16?",
+          options: ["A. 2,000 sqm", "B. 8,000 sqm", "C. 16,000 sqm", "D. 32,000 sqm"],
+          correct: "D. 32,000 sqm"
+      },
+      {
+          question: "Mr. and Mrs. Urot bought a new house and lot in Balamban, Cebu for P3M. They paid P500,000.00 in cash and were able to secure a bank loan for the difference, payable for 15 years at 12%. How much will they have to pay monthly for their house? Amortization factor =0.012001681).",
+          options: ["A. P28,804.03", "B. P30,004.20", "C. P31,004.20", "D. P32,004.20"],
+          correct: "B. P30,004.20"
+      },
+      {
+          question: "A 20-hectare land was sold at P 1,000.00 per square meter. The owner agreed to pay a commission or professional fee based on the following rates: 4.0% for the first P4M, 3.5% on the amount in excess of P4M and 1.5% on the amount in excess of P10M. After deducting the 10% withholding tax from the gross commission, how much will the listing broker and the selling broker each receive if they agreed to a 55-45 sharing in favor of the listing broker?",
+          options: ["A. Selling broker is P1,593,900.00; Listing broker is P1,304,100.00", "B. Selling broker is P1,779,525.00; Listing broker is P1,455,975.00", "C. Selling broker is P1,780,525.00; Listing broker is P1,456,975.00", "D. Selling broker is P1,781,525.00; Listing broker is P1,457,975.00"],
+          correct: "A. Selling broker is P1,593,900.00; Listing broker is P1,304,100.00"
+      },
+      {
+          question: "The technical description in the TCT of a real property that can readily be plotted on a sheet by using what data?",
+          options: ["A. Bearing and lot points (monuments)", "B. Distance and lot points(monuments)", "C. Distance and bearing from lot point", "D. Bearing and tie line"],
+          correct: "C. Distance and bearing from lot point"
+      },
+      {
+          question: "An area characterized by the abundance of utilities systems or networks, especially water supply or roads.",
+          options: ["A. Underdeveloped area", "B. Undedeveloped area", "C. Developed area", "D. No development area"],
+          correct: "C. Developed area"
+      },
+      {
+          question: "The following are public dominion, except:",
+          options: ["A. Canal", "B. Subdivision roads", "C. Navigate river converted into fishpond", "D. Public plaza converted into housing"],
+          correct: "B. Subdivision roads"
+      },
+      {
+          question: "The required population density of a municipality for it to be charted into a City:",
+          options: ["A. 1,000 people/sq km", "B. 500 people/sq km", "C. 750 people/sq km", "D. 250 people/sq km"],
+          correct: "A. 1,000 people/sq km"
+      },
+      {
+          question: "Ms. Leonado, a licensed real estate broker, obtained this net listing; a residential lot with an area of 300 square meters for sale at P15,000.00/sqm. She therefore has to sell the property at a price that would be inclusive of the capital gains tax, documentary stamps and the broker's commission of 3%. The net selling price is:",
+          options: ["A. P4,363,128.49", "B. P4,500,000.00", "C. P4,800,000.00", "D. P5,363,128.49"],
+          correct: "B. P4,500,000.00"
+      },
+      {
+          question: "Refer to Item No. 165, the gross selling price is:",
+          options: ["A. P4,363,128.49", "B. P4,800,000.00", "C. P5,027,932.96", "D. P5,363,128.49"],
+          correct: "C. P5,027,932.96"
+      },
+      {
+          question: "Refer to Item No. 165, the capital gains tax is:",
+          options: ["A. P301,675.98", "B. P320,787.71", "C. P321,787.71", "D. P322,787.71"],
+          correct: "A. P301,675.98"
+      },
+      {
+          question: "Refer to Item No. 165, the documentary stamps tax is:",
+          options: ["A. P74,418.99", "B. P75,418.99", "C. P80,446.93", "D. P81,446.93"],
+          correct: "B. P75,418.99"
+      },
+      {
+          question: "Refer to Item No. 165, the gross commission or professional fee to be received by the broker is:",
+          options: ["A. P150,837.99", "B. P157,893.85", "C. P158,893.85", "D. P159,893.85"],
+          correct: "A. P150,837.99"
+      },
+      {
+          question: "Ms. Buaya owns a 240 square meters rectangular lot with a 12-meter frontage. She wanted to enclose it with a fence made of hollow blocks, 1.7 meters high above the ground with 0.3 meters below the ground. The fence cost P850. ciągle00 per square meter. How much will the fencing cost if a 4 meter wide steel gate costing P20,000.00 is installed?",
+          options: ["A. P115,000.00", "B. P116,000.00", "C. P120,000.00", "D. P122,000.00"],
+          correct: "D. P122,000.00"
+      },
+      {
+          question: "A corporation is developing a 10-hectare rawland purchased at P500.00 per square meter. Development cost is estimated at P400.00 per square meter based on the gross area. Marketing exclusive of advertising and broker's commission is 15% of selling price. If the company desires a gross profit of 30% of the selling price, what should be the minimum selling price per square meter of the subdivision lots assuming that saleable area is 70% of gross area.",
+          options: ["A. P1,718.18", "B. P1,818.18", "C. P2,337.65", "D. P3,818.18"],
+          correct: "C. P2,337.65"
+      },
+      {
+          question: "In statistics, the term that refers to a quantity that may assume any of a set of values is:",
+          options: ["A. Variable", "B. Constant", "C. Raw data", "D. Matrix"],
+          correct: "A. Variable"
+      },
+      {
+          question: "In this technique under the income approach, the land value is estimated as the present value of the residual income attributable to the land of an income producing property.",
+          options: ["A. Property residual technique", "B. Land residual technique", "C. Building residual technique", "D. Ground rent multiplier"],
+          correct: "B. Land residual technique"
+      },
+      {
+          question: "In this technique under the income approach, the building value is estimated as the present value of the residual income attributable to the building of an income producing property.",
+          options: ["A. Property residual technique", "B. Land residual technique", "C. Building residual technique", "D. Ground rent multiplier"],
+          correct: "C. Building residual technique"
+      },
+      {
+          question: "Method of estimating the RCN in which the original costs is adjusted to current costs by a multiplier derived from published cost indexes.",
+          options: ["A. Quantity survey method", "B. Cost-in-place method", "C. Index or trending method", "D. Cost estimation"],
+          correct: "C. Index or trending method"
+      },
+      {
+          question: "The amount calculated by the appraiser by reducing the annual potential gross income by a vacancy allowance amount.",
+          options: ["A. Net operating income", "B. Effective gross income", "C. Operating expense", "D. Net cash"],
+          correct: "B. Effective gross income"
+      },
+      {
+          question: "In income estimating, operating expenses are deducted from the effective gross income to determine the:",
+          options: ["A. Net operating income for the property", "B. Gross potential income for the property", "C. Allowance for vacancy and bad debts for the property", "D. Debt equity"],
+          correct: "A. Net operating income for the property"
+      },
+      {
+          question: "A capitalization process that applies an overall rate, or all risks yield, which, when divided into a single year's or stablished net operating income, produces a value indication.",
+          options: ["A. Yield capitalization", "B. Direct capitalization", "C. Discounted cash flow", "D. Sinking capitalization"],
+          correct: "A. Yield capitalization"
+      },
+      {
+          question: "A capitalization process that considers the time value of money, and is applied to a series of net operating income for a period of years.",
+          options: ["A. Yield capitalization", "B. Direct capitalization", "C. Discounted cash flow", "D. Sinking capitalization"],
+          correct: "C. Discounted cash flow"
+      },
+      {
+          question: "The ad valorem tax on idle lands:",
+          options: ["A. Not exceeding 0.5% of AV", "B. Not exceeding 5.0% of AV", "C. Not exceeding 1.5% of AV", "D. Not exceeding 2.0% of AV"],
+          correct: "B. Not exceeding 5.0% of AV"
+      },
+      {
+          question: "A study that addresses the time required to absorb a particular product, and the price or rent level at which that product would be accepted into the marketplace.",
+          options: ["A. Market analysis", "B. Marketability study", "C. Feasibility study", "D. Cost benefit study"],
+          correct: "B. Marketability study"
+      },
+      {
+          question: "Data that the appraiser personally collects is called:",
+          options: ["A. Specific data", "B. General data", "C. Primary data", "D. Data selection"],
+          correct: "C. Primary data"
+      },
+      {
+          question: "A phenomenon where there is an increase in circulating money supply and the reserve requirement remains constant.",
+          options: ["A. Inflation", "B. Open Market", "C. Bull Market", "D. Bear Market"],
+          correct: "A. Inflation"
+      },
+      {
+          question: "How many holes does a typical Golf course have?",
+          options: ["A. 10", "B. 30", "C. 18", "D. 20"],
+          correct: "C. 18"
+      },
+      {
+          question: "How many hectares does a typical golf course have?",
+          options: ["A. 10", "B. 20", "C. 30", "D. 50"],
+          correct: "C. 30"
+      },
+      {
+          question: "A house and lot worth 4m and 8m was constructed near a squatter's area. The Value of the latter property ________________",
+          options: ["A. Increased", "B. Decreased", "C. Progression", "D. Regression"],
+          correct: "B. Decreased"
+      },
+      {
+          question: "A house and lot worth 4m and 8m was constructed near a squatter's area. The value of the houses increasing is a principle of.__________________________",
+          options: ["A. Substitution", "B. Regression", "C. Progression", "D. Anticipation"],
+          correct: "C. Progression"
+      },
+      {
+          question: "Two main sources of our Laws in the country are from?",
+          options: ["A. Acts and Decrees", "B. President and Legislature", "C. Congress and Senate", "D. Supreme Court and Senate"],
+          correct: "B. President and Legislature"
+      },
+      {
+          question: "The party being sued in litigation is:",
+          options: ["A. Plaintiff", "B. Defendant", "C. Prosecutor", "D. Petitioner"],
+          correct: "B. Defendant"
+      },
+      {
+          question: "Ignacio sold a property to Ave in June 2022. Ignacio later sold the property to Crodua in August of the same year. Who has the right to own the property.",
+          options: ["a. Crodua who first registered to the registry of deeds", "b. Ave who has the oldest document available", "c. Ave who took first possession of the property", "d. Crodua who has a tax declaration"],
+          correct: "a. Crodua who first registered to the registry of deeds"
+      },
+      {
+          question: "The Torrens Titling system was first introduced in Australia by the law call Real Property act by:",
+          options: ["A. 1860 Southern Australia", "B. 1858 Southern Australia", "C. 1860 Northern Australia", "D. 1858 Northern Australia"],
+          correct: "B. 1858 Southern Australia"
+      },
+      {
+          question: "The Law Requiring the Planting of Trees:",
+          options: ["A. PD 963", "B. RA 963", "C. PD 953", "D. RA 953"],
+          correct: "C. PD 953"
+      },
+      {
+          question: "Law Proclaiming Land Reform Zone in the Philippines:",
+          options: ["A. PD 27", "B. PD 72", "C. PD 1216", "D. PD 1517"],
+          correct: "D. PD 1517"
+      },
+      {
+          question: "In converting a property into a Condominium Project, what document do you create?",
+          options: ["A. Deed of Sale", "B. Deed of Restriction", "C. Deed of Conditional Sale", "D. Master Deed"],
+          correct: "D. Master Deed"
+      },
+      {
+          question: "The Articles of Incorporation of a REIT is called?",
+          options: ["A. Deed of Sale", "B. Deed of Conditional Sale", "C. Constitutive Document", "D. Deed of Restriction"],
+          correct: "C. Constitutive Document"
+      },
+      {
+          question: "Another term for Master Deed?",
+          options: ["A. Enabling Deed", "B. Right of first refusal", "C. Deed of Restriction", "D. Deed of Sale"],
+          correct: "A. Enabling Deed"
+      },
+      {
+          question: "The developer needs permission from the DHSUD and ______________ in mortgage in a Real Estate Project",
+          options: ["A. Mayor", "B. City/Provincial Treasurer", "C. City/ Provincial Engineer", "D. Sangguniang Panlalawigan"],
+          correct: "C. City/ Provincial Engineer"
+      },
+      {
+          question: "In the event of non-payment of Condominium dues, The Condominium Corporation can:",
+          options: ["A. Padlock the Property", "B. Sell the unit", "C. Annotate the unpaid Amount through the Registry of Deeds", "D. Evict the Owner"],
+          correct: "C. Annotate the unpaid Amount through the Registry of Deeds"
+      },
+      {
+          question: "Zone of Built-up area is what color in the Zoning Map:",
+          options: ["A. Green", "B. Yellow", "C. Black", "D. Brown"],
+          correct: "B. Yellow"
+      },
+      {
+          question: "The acquisition of land in advance of actual need based on present value for future planned development as referred in the Urban Land Reform Law.",
+          options: ["A. Land assembly", "B. Land banking", "C. Urban renewal", "D. New settlement development"],
+          correct: "B. Land banking"
       },
     ],
   },
